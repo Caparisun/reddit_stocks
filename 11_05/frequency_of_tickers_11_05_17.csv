@@ -1,0 +1,78 @@
+Term,frequency,Company_Name,Last Sale,Net Change,% Change,Market Cap,Country,IPO Year,Volume,Sector,Industry
+BEST,78,BEST Inc. American Depositary Shares each representing one Class A Ordinary Share,$1.22,-0.02,-1.613%,472994000.0,Cayman Islands,2017.0,1479486,,
+PLTR,183,Palantir Technologies Inc. Class A Common Stock,$19.75,-0.34,-1.692%,36879298378.0,,2020.0,63725501,Technology,Retail: Computer Software & Peripheral Equipment
+AM,95,Antero Midstream Corporation Common Stock,$9.28,0.15,1.643%,4429881126.0,United States,2017.0,3202538,Public Utilities,Natural Gas Distribution
+GME,42,GameStop Corporation Common Stock,$161.11,0.1,0.062%,11402041154.0,United States,2002.0,2934624,Consumer Services,Electronics Distribution
+LIFE,16,aTyr Pharma Inc. Common Stock,$3.82,0.12,3.243%,61163491.0,United States,2015.0,111062,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+M,117,Macy's Inc Common Stock,$17.68,0.35,2.02%,5511145598.0,United States,,8018076,Consumer Services,Department/Specialty Retail Stores
+CASH,66,Meta Financial Group Inc. Common Stock,$50.21,0.05,0.10%,1603004862.0,United States,1993.0,97641,Finance,Banks
+FREE,38,Whole Earth Brands Inc. Class A Common Stock,$13.71,0.06,0.44%,526829632.0,United States,2019.0,253685,Miscellaneous,Home Furnishings
+FACT,37,Freedom Acquisition I Corp. Class A Ordinary Shares,$9.84,0.01,0.102%,424350000.0,,2021.0,7226,Health Care,Major Pharmaceuticals
+NEW,88,Puxin Limited American Depositary Shares each representing two Ordinary Shares,$3.20,0.21,7.023%,279882854.0,,2018.0,364501,Miscellaneous,Service to the Health Industry
+D,8,Dominion Energy Inc. Common Stock,$78.45,-0.03,-0.038%,63271834238.0,United States,,2670934,Public Utilities,Electric Utilities: Central
+ONE,151,OneSmart International Education Group Limited ADS,$2.81,0.12,4.461%,453575987.0,,2018.0,110397,Miscellaneous,Service to the Health Industry
+HOME,15,At Home Group Inc. Common Stock,$36.76,-0.94,-2.493%,2407193568.0,United States,2016.0,3833118,Consumer Services,Other Specialty Stores
+WELL,90,Welltower Inc. Common Stock,$74.70,1.19,1.619%,31188781350.0,United States,,1831089,Consumer Services,Real Estate Investment Trusts
+HE,115,Hawaiian Electric Industries Inc. Common Stock,$45.19,1.72,3.957%,4938418151.0,United States,,486940,,
+GOOD,93,Gladstone Commercial Corporation Real Estate Investment Trust,$21.30,0.305,1.453%,790725119.0,United States,2003.0,111159,Consumer Services,Real Estate Investment Trusts
+LOW,51,Lowe's Companies Inc. Common Stock,$208.40,2.46,1.195%,149459973350.0,United States,,3695125,Consumer Services,RETAIL: Building Materials
+SEE,110,Sealed Air Corporation Common Stock,$57.06,0.26,0.458%,8672544436.0,United States,,1473886,Basic Industries,Containers/Packaging
+GOLD,22,Barrick Gold Corporation Common Stock (BC),$23.92,0.37,1.571%,42538642525.0,Canada,,24229353,,
+ELSE,23,Electro-Sensors Inc. Common Stock,$4.59,0.16,3.612%,15585441.0,United States,,73147,Capital Goods,Industrial Machinery/Components
+MOVE,25,Movano Inc. Common Stock,$5.21,-0.09,-1.698%,167368187.0,United States,2021.0,17591,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+K,114,Kellogg Company Common Stock,$66.95,-0.58,-0.859%,22786794030.0,United States,,3926401,Consumer Non-Durables,Packaged Foods
+TWO,26,Two Harbors Investment Corp,$7.12,0.26,3.79%,1948875983.0,United States,,5958734,Consumer Services,Real Estate Investment Trusts
+RKT,34,Rocket Companies Inc. Class A Common Stock,$18.09,-0.92,-4.84%,35898779155.0,United States,2020.0,26738758,Finance,Finance: Consumer Services
+BABA,18,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,$225.31,-1.11,-0.49%,611153375000.0,China,2014.0,10550046,Consumer Services,Catalog/Specialty Distribution
+CAP,25,Capitol Investment Corp. V Class A Common Stock,$10.00,0.07,0.705%,431250000.0,,2021.0,477977,,
+ANY,82,Sphere 3D Corp. Common Shares,$1.60,0.02,1.266%,20038166.0,Canada,,373505,,
+PLAY,39,Dave & Buster's Entertainment Inc. Common Stock,$44.85,0.63,1.425%,2137477267.0,United States,2014.0,874929,Consumer Services,Restaurants
+PLAN,15,Anaplan Inc. Common Stock,$54.61,0.24,0.441%,7895706573.0,United States,2018.0,2187765,Technology,Computer Software: Prepackaged Software
+EVER,23,EverQuote Inc. Class A Common Stock,$31.90,0.6,1.917%,917894173.0,United States,2018.0,439755,Technology,EDP Services
+STAY,11,Extended Stay America Inc. Paired Shares,$19.75,0.15,0.765%,3510182767.0,United States,,1298812,Consumer Services,Hotels/Resorts
+TRUE,14,TrueCar Inc. Common Stock,$4.62,-0.16,-3.347%,455048716.0,United States,2014.0,1524402,,
+NICE,14,NICE Ltd American Depositary Shares,$233.84,1.87,0.806%,14760317763.0,Israel,,132200,Technology,Computer Software: Prepackaged Software
+WORK,24,Slack Technologies Inc. Class A Common Stock,$41.23,-0.17,-0.411%,23981297729.0,,2019.0,2397530,Technology,EDP Services
+TELL,22,Tellurian Inc. Common Stock,$2.18,0.1,4.808%,892995438.0,United States,,7911354,Energy,Oil & Gas Production
+NEXT,59,NextDecade Corporation Common Stock,$2.03,-0.01,-0.49%,248002591.0,United States,2015.0,154259,Energy,Oil & Gas Production
+TECH,60,Bio-Techne Corp Common Stock,$423.05,12.07,2.937%,16413846724.0,United States,,216439,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+TH,36,Target Hospitality Corp. Common Stock,$2.79,0.17,6.489%,282449146.0,United States,2018.0,447841,Energy,Oil & Gas Production
+GAIN,34,Gladstone Investment Corporation Business Development Company,$13.81,0.03,0.218%,458561368.0,United States,2005.0,101113,Finance,Finance/Investors Services
+LIVE,15,Live Ventures Incorporated Common Stock,$37.49,0.69,1.875%,58303511.0,United States,,11345,Capital Goods,Recreational Products/Toys
+LMAO,16,LMF Acquisition Opportunities Inc. Class A common stock,$9.9401,0.0101,0.102%,129623874.0,United States,2021.0,4306,,
+POST,43,Post Holdings Inc. Common Stock,$116.35,0.16,0.138%,7489160719.0,United States,2012.0,455082,Consumer Non-Durables,Specialty Foods
+OPEN,51,Opendoor Technologies Inc Common Stock,$18.70,0.89,4.997%,10796882580.0,United States,,7268588,Finance,Real Estate
+REAL,33,The RealReal Inc. Common Stock,$22.80,-0.23,-0.999%,2069940066.0,United States,2019.0,2207497,Consumer Services,Catalog/Specialty Distribution
+AGO,25,Assured Guaranty Ltd. Common Stock,$48.60,-2.49,-4.874%,3710122396.0,Bermuda,2004.0,895537,Finance,Property-Casualty Insurers
+MAN,18,ManpowerGroup Common Stock,$122.72,-0.49,-0.398%,6742995578.0,United States,,255739,Technology,Professional Services
+BILL,18,Bill.com Holdings Inc. Common Stock,$154.23,23.9,18.338%,12690378308.0,,2019.0,3917059,Technology,Computer Software: Prepackaged Software
+ID,20,PARTS iD Inc. Class A Common Stock,$6.80,-0.12,-1.734%,223539508.0,United States,2017.0,74336,Miscellaneous,Diversified Commercial Services
+LOVE,23,The Lovesac Company Common Stock,$72.43,3.83,5.583%,1087755913.0,United States,2018.0,510022,,
+BIG,34,Big Lots Inc. Common Stock,$69.16,-0.68,-0.974%,2427618495.0,United States,,625698,Consumer Services,Department/Specialty Retail Stores
+F,8,Ford Motor Company Common Stock,$11.82,0.08,0.681%,47181237505.0,United States,,41525840,Capital Goods,Auto Manufacturing
+ONTO,5,Onto Innovation Inc. Common Stock,$66.41,2.35,3.668%,3256723356.0,United States,,265478,Technology,Semiconductors
+WISH,12,ContextLogic Inc. Class A Common Stock,$12.61,-0.04,-0.316%,7805380548.0,United States,2020.0,4251528,Capital Goods,Recreational Products/Toys
+X,31,United States Steel Corporation Common Stock,$27.85,1.89,7.28%,7510068041.0,United States,,30433734,Basic Industries,Steel/Iron Ore
+HES,10,Hess Corporation Common Stock,$82.53,1.24,1.525%,25454016326.0,United States,,1838941,Energy,Oil & Gas Production
+FUN,13,Cedar Fair L.P. Common Stock,$48.36,-0.1,-0.206%,2748213541.0,United States,1987.0,376507,Consumer Services,Movies/Entertainment
+TURN,15,180 Degree Capital Corp. Common Stock,$7.29,0.05,0.691%,75625148.0,United States,,32847,Finance,Finance/Investors Services
+SAVE,10,Spirit Airlines Inc. Common Stock,$35.13,0.52,1.502%,3808109670.0,United States,,2439159,Transportation,Air Freight/Delivery Services
+COOL,13,Corner Growth Acquisition Corp. Class A Ordinary Shares,$9.76,-0.02,-0.204%,488000000.0,United States,2021.0,34998,Finance,Business Services
+JOE,3,St. Joe Company (The) Common Stock,$47.16,0.99,2.144%,2776901011.0,United States,,238016,Consumer Services,Homebuilding
+AMD,6,Advanced Micro Devices Inc. Common Stock,$78.81,0.92,1.181%,95755803119.0,United States,,36954179,Technology,Semiconductors
+TSLA,33,Tesla Inc. Common Stock,$672.37,8.83,1.331%,647714493322.0,United States,2010.0,23469172,Capital Goods,Auto Manufacturing
+PLUG,5,Plug Power Inc. Common Stock,$23.05,0.49,2.172%,13592207441.0,United States,1999.0,21640932,Consumer Durables,Electrical Products
+NIO,7,NIO Inc. American depositary shares each  representing one Class A ordinary share,$36.94,0.26,0.709%,60526858946.0,,2018.0,55551679,Finance,Finance Companies
+CARE,21,Carter Bankshares Inc. Common Stock,$13.99,0.07,0.503%,370276562.0,United States,,48943,Finance,Major Banks
+SPCE,13,Virgin Galactic Holdings Inc. Common Stock,$19.61,0.43,2.242%,4646476997.0,,2017.0,9413307,,
+DUDE,6,Merlyn.AI SectorSurfer Momentum ETF,$27.2087,0.2487,0.922%,,United States,2020.0,42802,,
+EAT,7,Brinker International Inc. Common Stock,$64.80,1.34,2.112%,2964659486.0,United States,,894698,Consumer Services,Restaurants
+PM,9,Philip Morris International Inc Common Stock,$97.41,0.59,0.609%,151817088878.0,United States,,2718611,Consumer Non-Durables,Farming/Seeds/Milling
+SAFE,12,Safehold Inc. Common Stock,$70.58,-0.12,-0.17%,3759289836.0,United States,2017.0,87426,Consumer Services,Real Estate Investment Trusts
+DOOR,5,Masonite International Corporation Ordinary Shares (Canada),$129.92,1.41,1.097%,3188277855.0,Canada,,134598,,
+AAPL,16,Apple Inc. Common Stock,$130.21,0.69,0.533%,2257495041400.0,United States,1980.0,78973273,Technology,Computer Manufacturing
+JOB,19,GEE Group Inc. Common Stock,$0.5424,-0.033,-5.735%,54782647.0,United States,,12348834,Technology,Diversified Commercial Services
+APP,6,Applovin Corporation Class A Common Stock,$57.26,0.33,0.58%,20496520993.0,United States,2021.0,552603,Technology,EDP Services
+IMO,7,Imperial Oil Limited Common Stock,$31.36,0.3,0.966%,23020647037.0,Canada,,1715130,,
+WOW,6,WideOpenWest Inc. Common Stock,$15.90,0.42,2.713%,1385261965.0,United States,2017.0,295486,Consumer Services,Television Services
+KIDS,6,OrthoPediatrics Corp. Common Stock,$64.16,2.67,4.342%,1261347874.0,United States,2017.0,265570,Health Care,Medical/Dental Instruments

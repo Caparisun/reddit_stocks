@@ -1,0 +1,46 @@
+Term,Company_Name,Last Sale,Net Change,% Change,Market Cap,Country,IPO Year,Volume,Sector,Industry,frequency
+ACB,Aurora Cannabis Inc. Common Shares,$8.90,0.44,5.201%,1762019704.0,,2018.0,10389273,,,5
+AM,Antero Midstream Corporation Common Stock,$9.28,0.15,1.643%,4429881126.0,United States,2017.0,3202538,Public Utilities,Natural Gas Distribution,9
+AMC,AMC Entertainment Holdings Inc. Class A Common Stock,$9.51,0.51,5.667%,4282165082.0,,2013.0,38244968,Consumer Services,Movies/Entertainment,37
+BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,$225.31,-1.11,-0.49%,611153375000.0,China,2014.0,10550046,Consumer Services,Catalog/Specialty Distribution,11
+BOOM,DMC Global Inc. Common Stock,$55.67,0.87,1.588%,881449275.0,United States,,354673,,,2
+CLOV,Clover Health Investments Corp. Class A Common Stock,$8.62,0.39,4.739%,3798834000.0,United States,,6507356,Health Care,Medical Specialities,46
+COIN,Coinbase Global Inc. Class A Common Stock,$263.70,6.94,2.703%,52529040000.0,United States,,4243741,Technology,EDP Services,5
+CRSR,Corsair Gaming Inc. Common Stock,$33.69,0.91,2.776%,3105794955.0,United States,2020.0,1474584,Technology,Computer Manufacturing,13
+CVX,Chevron Corporation Common Stock,$110.02,1.0,0.917%,212125070874.0,United States,,10273022,Energy,Integrated oil Companies,4
+D,Dominion Energy Inc. Common Stock,$78.45,-0.03,-0.038%,63271834238.0,United States,,2670934,Public Utilities,Electric Utilities: Central,8
+DD,DuPont de Nemours Inc. Common Stock,$82.85,1.45,1.781%,44087992538.0,,2017.0,2827959,Capital Goods,Wholesale Distributors,90
+DKNG,DraftKings Inc. Class A Common Stock,$48.42,-3.47,-6.687%,19256875567.0,United States,2019.0,46018827,Consumer Services,Services-Misc. Amusement & Recreation,9
+DTE,DTE Energy Company Common Stock,$141.69,0.39,0.276%,27449229780.0,United States,,654153,Public Utilities,Electric Utilities: Central,3
+E,ENI S.p.A. Common Stock,$25.35,0.3,1.198%,45282066814.0,Italy,,287749,Energy,Oil & Gas Production,5
+FB,Facebook Inc. Class A Common Stock,$319.08,-0.94,-0.294%,904740119233.0,United States,2012.0,15916743,Technology,Internet and Information Services,4
+FCX,Freeport-McMoRan Inc. Common Stock,$43.97,1.9,4.516%,64439214407.0,United States,,32390386,Basic Industries,Precious Metals,4
+FOR,Forestar Group Inc Common Stock ,$25.24,0.16,0.638%,1239909977.0,United States,2017.0,232622,Finance,Real Estate,2
+FSR,Fisker Inc. Class A Common Stock,$11.28,-0.02,-0.177%,3320914197.0,,2018.0,11114191,,,3
+G,Genpact Limited Common Stock,$47.13,0.05,0.106%,8820337649.0,Bermuda,2007.0,1732361,Consumer Services,Professional Services,45
+GME,GameStop Corporation Common Stock,$161.11,0.1,0.062%,11402041154.0,United States,2002.0,2934624,Consumer Services,Electronics Distribution,83
+GS,Goldman Sachs Group Inc. (The) Common Stock,$370.89,4.92,1.344%,126014400133.0,United States,1999.0,3378112,Finance,Investment Bankers/Brokers/Service,4
+INO,Inovio Pharmaceuticals Inc. Common Stock,$6.85,0.34,5.223%,1426896216.0,United States,,6530791,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),34
+IT,Gartner Inc. Common Stock,$234.00,2.57,1.11%,20141907786.0,United States,1993.0,675165,Finance,Diversified Commercial Services,3
+M,Macy's Inc Common Stock,$17.68,0.35,2.02%,5511145598.0,United States,,8018076,Consumer Services,Department/Specialty Retail Stores,97
+MARA,Marathon Digital Holdings Inc. Common Stock,$31.33,-0.07,-0.223%,3095549246.0,United States,,11735127,Finance,Investment Managers,2
+NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,$36.94,0.26,0.709%,60526858946.0,,2018.0,55551679,Finance,Finance Companies,20
+NNDM,Nano Dimension Ltd. American Depositary Shares,$6.67,0.19,2.932%,1659646042.0,Israel,,13026752,Technology,Electrical Products,2
+NOW,ServiceNow Inc. Common Stock,$483.51,-2.33,-0.48%,95468076194.0,United States,2012.0,1997278,Technology,Computer Software: Prepackaged Software,4
+PLTR,Palantir Technologies Inc. Class A Common Stock,$19.75,-0.34,-1.692%,36879298378.0,,2020.0,63725501,Technology,Retail: Computer Software & Peripheral Equipment,85
+PM,Philip Morris International Inc Common Stock,$97.41,0.59,0.609%,151817088878.0,United States,,2718611,Consumer Non-Durables,Farming/Seeds/Milling,6
+PSFE,Paysafe Limited Common Shares,$13.45,0.69,5.408%,9733931538.0,,2021.0,3749969,Miscellaneous,Business Services,10
+RKT,Rocket Companies Inc. Class A Common Stock,$18.09,-0.92,-4.84%,35898779155.0,United States,2020.0,26738758,Finance,Finance: Consumer Services,88
+SO,Southern Company (The) Common Stock,$66.26,0.21,0.318%,70144849310.0,United States,,3608889,Public Utilities,Power Generation,5
+SP,SP Plus Corporation Common Stock,$33.41,-0.14,-0.417%,775293216.0,United States,,93982,Miscellaneous,Other Consumer Services,19
+SPCE,Virgin Galactic Holdings Inc. Common Stock,$19.61,0.43,2.242%,4646476997.0,,2017.0,9413307,,,10
+TLRY,Tilray Inc. Class 2 Common Stock ,$16.18,2.03,14.346%,7218817687.0,Canada,2018.0,74836278,Consumer Durables,Specialty Chemicals,16
+TSLA,Tesla Inc. Common Stock,$672.37,8.83,1.331%,647714493322.0,United States,2010.0,23469172,Capital Goods,Auto Manufacturing,31
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,$116.83,-0.17,-0.145%,605889269712.0,Taiwan,1997.0,9614315,Technology,Semiconductors,3
+U,Unity Software Inc. Common Stock,$89.42,1.1,1.245%,24977535424.0,United States,2020.0,3989008,Technology,Retail: Computer Software & Peripheral Equipment,4
+UK,Ucommune International Ltd Ordinary Shares,$2.31,0.11,5.00%,197251163.0,United States,2019.0,58373,Miscellaneous,Business Services,2
+UWMC,UWM Holdings Corporation Class A Common Stock,$6.96,-0.23,-3.199%,11172010984.0,United States,,6524454,,,73
+VFF,Village Farms International Inc. Common Shares,$11.11,0.76,7.343%,884313704.0,Canada,,2044856,,,2
+VIAC,ViacomCBS Inc. Class B Common Stock,$39.39,1.24,3.25%,24746662447.0,United States,,25483727,Consumer Services,Movies/Entertainment,26
+X,United States Steel Corporation Common Stock,$27.85,1.89,7.28%,7510068041.0,United States,,30433734,Basic Industries,Steel/Iron Ore,13
+Y,Alleghany Corporation Common Stock,$729.80,26.24,3.73%,10196502142.0,United States,,99905,Finance,Property-Casualty Insurers,4
