@@ -1,0 +1,322 @@
+Term,frequency10_05,Company_Name_x,Sector_x,frequency11_05,polarity11_05,frequency12_05,polarity12_05
+NEW,78.0,,Miscellaneous,,,900.0,0.9169
+TECH,49.0,Bio-Techne Corp Common Stock,Health Care,108.0,-0.3125,255.0,0.9748
+PLTR,134.0,Palantir Technologies Inc. Class A Common Stock,Technology,270.0,0.0251668645339208,402.0,0.3460688073394496
+PLAY,40.0,,Consumer Services,,,,
+LOVE,19.0,The Lovesac Company Common Stock,,67.0,0.1666666666666666,174.0,0.9942
+AGE,5.0,,Health Care,,,,
+COOL,7.0,,Finance,,,,
+NEXT,56.0,,Energy,,,576.0,-0.02265
+RAIN,2.0,,Health Care,,,,
+WORK,24.0,,Technology,,,,
+MIN,4.0,,,,,,
+HOME,9.0,,Consumer Services,,,,
+K,98.0,,Consumer Non-Durables,,,750.0,0.9659
+FUN,14.0,,Consumer Services,,,,
+AM,104.0,Antero Midstream Corporation Common Stock,Public Utilities,297.0,-0.0805555555555555,846.0,0.9936333333333334
+GOOD,99.0,,Consumer Services,,,789.0,0.9009
+NICE,13.0,,Technology,,,,
+CAT,7.0,,Capital Goods,,,51.0,0.9977
+CAR,4.0,,Miscellaneous,,,,
+GAIN,23.0,Gladstone Investment Corporation Business Development Company,Finance,104.0,0.0,,
+KEY,16.0,,Finance,,,,
+LINK,14.0,,Capital Goods,,,,
+NET,42.0,,Technology,,,,
+M,100.0,Macy's Inc Common Stock,Consumer Services,304.0,0.0,1023.0,0.3102
+LIFE,19.0,aTyr Pharma Inc. Common Stock,Health Care,56.0,0.0,,
+LOW,40.0,,Consumer Services,,,528.0,0.3509
+ONE,140.0,OneSmart International Education Group Limited ADS,Miscellaneous,460.0,-0.0333333333333333,1413.0,-0.167275
+ANY,80.0,Sphere 3D Corp. Common Shares,,277.0,-0.1,900.0,-0.0641
+WELL,86.0,Welltower Inc. Common Stock,Consumer Services,274.0,0.1854200653298591,912.0,0.9972083333333336
+TSLA,25.0,Tesla Inc. Common Stock,Capital Goods,60.0,-0.0951006073871927,171.0,0.12496
+ROLL,5.0,,Capital Goods,,,,
+LMAO,7.0,,,,,,
+DUDE,5.0,,,,,,
+CASH,60.0,,Finance,,,,
+BEST,87.0,,,,,,
+AMD,14.0,Advanced Micro Devices Inc. Common Stock,Technology,37.0,-0.0236113146113146,102.0,0.2430133333333333
+SP,8.0,SP Plus Corporation Common Stock,Miscellaneous,37.0,0.2222222222222222,105.0,0.8932
+ELSE,19.0,Electro-Sensors Inc. Common Stock,Capital Goods,58.0,-0.3523437499999999,,
+HOPE,15.0,,Finance,,,117.0,0.9913
+CLOV,38.0,Clover Health Investments Corp. Class A Common Stock,Health Care,80.0,0.0483302304728104,258.0,0.9919128205128204
+ATH,8.0,Athene Holding Ltd. Class A Common Shares,Finance,18.0,0.0,57.0,0.6
+IQ,2.0,iQIYI Inc. American Depositary Shares,Technology,2.0,0.0,,
+SEE,98.0,Sealed Air Corporation Common Stock,Basic Industries,320.0,0.0,1035.0,0.0110999999999999
+REAL,38.0,The RealReal Inc. Common Stock,Consumer Services,93.0,-0.0925,348.0,-0.7033999999999999
+ID,8.0,,Miscellaneous,,,135.0,0.99
+JOB,9.0,,Technology,,,,
+CARE,22.0,,Finance,,,,
+BIT,18.0,,,,,,
+AAPL,12.0,Apple Inc. Common Stock,Technology,33.0,0.0187802504208754,84.0,0.1332833333333333
+WISH,10.0,,Capital Goods,,,93.0,-0.2346
+DOW,4.0,,Basic Industries,,,,
+POST,41.0,,Consumer Non-Durables,,,549.0,0.8917
+UWMC,30.0,UWM Holdings Corporation Class A Common Stock,,188.0,0.0676602401885211,555.0,0.863206896551723
+FREE,38.0,,Miscellaneous,,,276.0,0.9954
+PTON,8.0,Peloton Interactive Inc. Class A Common Stock,Consumer Services,14.0,0.0,36.0,0.705
+HE,111.0,,,,,1038.0,0.3745666666666666
+MIND,15.0,MIND Technology Inc. Common Stock (DE),Capital Goods,38.0,0.0,,
+BOX,5.0,,Technology,,,,
+ONTO,4.0,,Technology,,,,
+POOL,6.0,Pool Corporation Common Stock,Consumer Non-Durables,20.0,-0.0031609195402298,,
+TURN,8.0,180 Degree Capital Corp. Common Stock,Finance,28.0,-0.1210714285714285,96.0,-0.8421000000000001
+BIG,34.0,,Consumer Services,,,429.0,-0.3198
+TWO,22.0,,Consumer Services,,,,
+R,3.0,Ryder System Inc. Common Stock,Miscellaneous,9.0,0.0,30.0,0.97085
+FAT,4.0,,Consumer Services,,,,
+HES,11.0,,Energy,,,,
+RKT,31.0,Rocket Companies Inc. Class A Common Stock,Finance,133.0,0.0146691368000815,354.0,0.8439285714285704
+DTE,3.0,,Public Utilities,,,,
+FACT,21.0,,Health Care,,,,
+GME,54.0,GameStop Corporation Common Stock,Consumer Services,344.0,0.0205931135646282,1008.0,0.3372540145985397
+FUND,17.0,,,,,,
+SELF,2.0,,Consumer Services,,,,
+DD,63.0,DuPont de Nemours Inc. Common Stock,Capital Goods,196.0,0.0498698639183222,642.0,0.6692255813953486
+BB,13.0,BlackBerry Limited Common Stock,,24.0,-2.9708853238265195e-05,69.0,-0.35392
+COIN,8.0,Coinbase Global Inc. Class A Common Stock,Technology,22.0,0.070108024691358,,
+SAVE,8.0,Spirit Airlines Inc. Common Stock,Transportation,23.0,0.0,,
+PSFE,6.0,Paysafe Limited Common Shares,Miscellaneous,10.0,0.0,,
+WOW,4.0,,Consumer Services,,,,
+MARA,2.0,Marathon Digital Holdings Inc. Common Stock,Finance,4.0,0.0,,
+Y,5.0,,Finance,,,30.0,0.8946
+EVER,22.0,,Technology,,,,
+SAFE,11.0,,Consumer Services,,,,
+RUN,17.0,Sunrun Inc. Common Stock,Capital Goods,58.0,0.0,228.0,0.9209
+BILL,11.0,,Technology,,,,
+MAN,17.0,,Technology,,,,
+AGO,24.0,,Finance,,,,
+COST,29.0,,Consumer Services,,,,
+TV,4.0,,Consumer Services,,,30.0,0.7453400000000002
+GOLD,12.0,,,,,,
+TEAM,6.0,,Technology,,,,
+OI,6.0,,Consumer Durables,,,45.0,0.7212333333333333
+PAR,2.0,,Technology,,,,
+PLUG,23.0,Plug Power Inc. Common Stock,Consumer Durables,26.0,0.0,78.0,0.9969
+HUGE,33.0,,,,,306.0,0.9723
+INO,32.0,Inovio Pharmaceuticals Inc. Common Stock,Health Care,80.0,0.05,288.0,0.3069333333333333
+MOVE,21.0,,Health Care,,,,
+CAP,25.0,,,,,,
+MVIS,9.0,MicroVision Inc. Common Stock,Capital Goods,22.0,0.0032534910810772,75.0,-0.1094999999999999
+V,6.0,Visa Inc.,Miscellaneous,17.0,0.0,51.0,0.0
+W,3.0,Wayfair Inc. Class A Common Stock,Consumer Services,8.0,0.0,24.0,0.9903
+C,22.0,,Finance,,,174.0,0.513325
+ALOT,3.0,,Technology,,,,
+EARN,2.0,,Consumer Services,,,,
+OPEN,20.0,,Finance,,,,
+U,4.0,Unity Software Inc. Common Stock,Technology,8.0,-0.3333333333333333,15.0,-0.5574
+BABA,14.0,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,Consumer Services,34.0,0.0138888888888888,66.0,0.3192
+STAY,10.0,Extended Stay America Inc. Paired Shares,Consumer Services,33.0,0.0,87.0,0.42105
+AMZN,7.0,Amazon.com Inc. Common Stock,Consumer Services,10.0,0.0,33.0,0.905
+NIO,6.0,NIO Inc. American depositary shares each  representing one Class A ordinary share,Finance,26.0,-0.0151802444737227,21.0,0.3320333333333333
+TLRY,5.0,Tilray Inc. Class 2 Common Stock ,Consumer Durables,12.0,0.0,27.0,0.9547
+MNMD,2.0,,,,,,
+LAKE,2.0,,,,,,
+HEAR,9.0,,Consumer Non-Durables,,,,
+FDS,4.0,,Technology,,,,
+FB,4.0,,Technology,,,21.0,-0.6243
+GOOG,2.0,,Technology,,,,
+GOOGL,2.0,,Technology,,,3.0,0.9987
+MSFT,9.0,Microsoft Corporation Common Stock,Technology,11.0,0.0239280531090875,36.0,0.7767666666666667
+TDOC,4.0,,Health Care,,,9.0,0.9997
+TELL,19.0,,Energy,,,,
+EAT,4.0,,Consumer Services,,,,
+RIDE,5.0,,Capital Goods,,,54.0,0.2111
+BA,,nan,,7.0,0.0,21.0,0.9408
+D,,nan,,24.0,0.0,72.0,0.9994444444444446
+AI,,nan,,32.0,0.1499410774410774,114.0,0.937117391304348
+CUZ,,nan,,5.0,0.0,,
+AMC,,nan,,77.0,0.0017586896534264,318.0,0.2040418181818182
+VS,,nan,,66.0,0.0,189.0,0.9994333333333332
+BOOM,,nan,,23.0,-0.0031609195402298,,
+ASO,,nan,,40.0,0.0780688384204009,144.0,0.9642035714285712
+VIAC,,nan,,29.0,0.1358645072660224,87.0,0.9752000000000004
+RH,,nan,,12.0,0.0,33.0,0.9897
+RBLX,,nan,,10.0,0.0,,
+T,,nan,,23.0,-0.1,72.0,0.5277333333333334
+LDI,,nan,,12.0,0.0810617136275031,36.0,0.9997857142857144
+LIVE,,nan,,40.0,0.0,117.0,0.997
+LAND,,nan,,18.0,0.0,,
+F,,nan,,25.0,0.0,66.0,0.0709499999999999
+SM,,nan,,4.0,0.0,,
+MT,,nan,,8.0,0.0704527417027417,,
+NUE,,nan,,8.0,0.0,,
+ACB,,nan,,22.0,-0.0230616348671904,60.0,0.94371
+SNAP,,nan,,12.0,0.0,24.0,0.1531
+BNGO,,nan,,13.0,-0.0583333333333333,,
+NYC,,nan,,3.0,0.0,,
+SNDL,,nan,,14.0,0.0,33.0,0.4794
+IFF,,nan,,6.0,0.118287037037037,18.0,0.8931
+NNDM,,nan,,3.0,0.1856150793650793,,
+MSTR,,nan,,11.0,-0.2333333333333333,30.0,-0.2627
+ICE,,nan,,9.0,0.7,27.0,-0.0999499999999999
+PENN,,nan,,20.0,0.0,60.0,0.9986499999999998
+TLC,,nan,,2.0,0.0,,
+NOK,,nan,,37.0,0.1218253968253968,111.0,0.9778777777777778
+UK,,nan,,9.0,0.0,33.0,0.7296
+TWTR,,nan,,12.0,0.0,,
+USA,,nan,,23.0,0.0,72.0,0.4816307692307692
+TA,,nan,,11.0,0.0510700866497967,39.0,0.9959333333333332
+FCEL,,nan,,5.0,0.0,,
+SPCE,,nan,,21.0,-0.0592592592592592,33.0,0.2997
+FUBO,,nan,,8.0,0.1650752314814814,30.0,0.334975
+SKLZ,,nan,,16.0,0.0519809580397815,48.0,0.9954
+SQ,,nan,,12.0,0.0,36.0,0.9993999999999998
+IBKR,,nan,,2.0,0.0,,
+TD,,nan,,7.0,-0.111111111111111,21.0,0.9742
+NNOX,,nan,,3.0,0.0,,
+KKR,,nan,,18.0,-0.0066224489795918,54.0,0.7329166666666667
+PM,,nan,,24.0,-0.06,75.0,0.1322
+JMIA,,nan,,3.0,0.0,,
+III,,nan,,13.0,0.0,39.0,0.9996000000000004
+WY,,nan,,8.0,0.1509501797637391,24.0,0.9921
+AG,,nan,,6.0,0.0,,
+BKR,,nan,,5.0,0.0472576530612244,,
+VET,,nan,,6.0,0.1913151927437641,18.0,0.944
+APP,,nan,,19.0,0.0,,
+H,,nan,,8.0,0.0,,
+LEV,,nan,,2.0,0.0,,
+IPOD,,nan,,4.0,0.0,,
+SWKS,,nan,,4.0,0.22,,
+BR,,nan,,2.0,0.0,,
+BG,,nan,,2.0,0.0,,
+L,,nan,,9.0,0.0,21.0,0.1203333333333333
+VIACA,,nan,,2.0,0.0,,
+ET,,nan,,20.0,0.0,63.0,0.988875
+XL,,nan,,2.0,0.0,,
+PFE,,nan,,12.0,0.027526455026455,,
+GDRX,,nan,,3.0,0.215,9.0,0.985
+ABNB,,nan,,6.0,0.1225730994152046,18.0,0.9947
+CD,,nan,,10.0,0.0652846277399848,30.0,0.9951
+O,,nan,,9.0,0.0,,
+EXPI,,nan,,1.0,0.0,,
+CRSR,,nan,,12.0,0.1158198107729589,39.0,0.98602
+WM,,nan,,1.0,0.0,,
+FLGT,,nan,,4.0,0.2446590909090909,12.0,0.9484
+KNSA,,nan,,1.0,0.0356957328385899,,
+GOEV,,nan,,1.0,0.0,,
+IP,,nan,,4.0,0.0,9.0,0.998
+SHIP,,nan,,6.0,-0.0285714285714285,15.0,-0.91
+AYX,,nan,,3.0,0.2562795159386067,9.0,0.9913
+CDE,,nan,,1.0,0.0,,
+BTX,,nan,,1.0,0.0,,
+FSR,,nan,,2.0,0.0,,
+GTE,,nan,,1.0,0.0,,
+BNTX,,nan,,3.0,0.1110243423243423,,
+JD,,nan,,3.0,-0.1749999999999999,3.0,0.9988
+CCL,,nan,,1.0,0.0,9.0,0.8842
+OXY,,nan,,4.0,0.0,,
+ACCD,,nan,,1.0,0.0918859649122807,,
+CNC,,nan,,1.0,0.0,,
+NCLH,,nan,,1.0,0.0,,
+MSM,,nan,,2.0,0.0,6.0,0.9982
+EW,,nan,,,,24.0,0.9757
+X,,nan,,,,399.0,0.7960428571428572
+TEN,,nan,,,,48.0,-0.8248
+SPOT,,nan,,,,120.0,0.7882
+GDP,,nan,,,,39.0,0.0973999999999999
+NYT,,nan,,,,6.0,0.9996
+CRSP,,nan,,,,6.0,0.9349
+AR,,nan,,,,12.0,0.9951
+CMS,,nan,,,,33.0,0.9997333333333333
+EMP,,nan,,,,6.0,0.7614
+UBS,,nan,,,,18.0,-0.3245333333333333
+IBM,,nan,,,,9.0,0.998
+DCF,,nan,,,,39.0,0.9964888888888888
+SI,,nan,,,,39.0,0.98445
+MA,,nan,,,,111.0,0.9997307692307694
+RSI,,nan,,,,159.0,0.5092000000000003
+SWN,,nan,,,,12.0,-0.9333
+NG,,nan,,,,18.0,-0.9333
+LNG,,nan,,,,18.0,0.9892
+ROKU,,nan,,,,9.0,0.8932
+NFLX,,nan,,,,6.0,0.8932
+DKNG,,nan,,,,54.0,0.95607
+CLF,,nan,,,,18.0,0.529
+IMO,,nan,,,,51.0,0.4713599999999999
+SVC,,nan,,,,12.0,0.9677
+PRPL,,nan,,,,9.0,0.1745
+APD,,nan,,,,6.0,0.921
+PSA,,nan,,,,6.0,0.6249
+PB,,nan,,,,30.0,0.8698
+CBD,,nan,,,,6.0,0.9547
+STLD,,nan,,,,6.0,-0.3317
+PT,,nan,,,,57.0,0.9337944444444448
+DKS,,nan,,,,12.0,0.9957
+BTU,,nan,,,,18.0,0.9895
+QCOM,,nan,,,,30.0,0.8859
+GEVO,,nan,,,,66.0,0.9948
+UPST,,nan,,,,54.0,0.9985000000000002
+SNP,,nan,,,,6.0,0.1926
+SEB,,nan,,,,6.0,0.9966
+OM,,nan,,,,18.0,0.9991
+MN,,nan,,,,12.0,0.9991
+NI,,nan,,,,24.0,0.9991
+CMD,,nan,,,,12.0,0.9991
+SDC,,nan,,,,18.0,-0.6733
+VLDR,,nan,,,,6.0,0.9979
+LAZR,,nan,,,,24.0,0.9979
+JNJ,,nan,,,,9.0,0.9101
+MGM,,nan,,,,24.0,0.9994
+TX,,nan,,,,12.0,0.8455
+FL,,nan,,,,6.0,0.9994
+SU,,nan,,,,18.0,0.944
+BBQ,,nan,,,,12.0,0.9547
+TSN,,nan,,,,12.0,0.9547
+DT,,nan,,,,6.0,0.9547
+MRNA,,nan,,,,24.0,0.9499
+E,,nan,,,,15.0,0.9996
+GM,,nan,,,,54.0,0.99209
+AA,,nan,,,,9.0,0.9961
+TAP,,nan,,,,12.0,0.9626
+DOX,,nan,,,,108.0,0.9996000000000004
+Z,,nan,,,,6.0,0.9437
+CRL,,nan,,,,12.0,0.0851
+OG,,nan,,,,6.0,0.9792
+API,,nan,,,,9.0,0.9904
+CRH,,nan,,,,30.0,0.97955
+JP,,nan,,,,18.0,0.9681333333333332
+EMR,,nan,,,,9.0,0.9745
+GL,,nan,,,,6.0,0.8842
+XOM,,nan,,,,6.0,0.944
+CNQ,,nan,,,,6.0,0.944
+NAV,,nan,,,,9.0,0.9998
+VZ,,nan,,,,27.0,0.63415
+APR,,nan,,,,39.0,-0.9631
+TEX,,nan,,,,6.0,0.9562
+FCF,,nan,,,,9.0,-0.8248000000000001
+GE,,nan,,,,15.0,0.9766
+ADT,,nan,,,,15.0,0.9984
+AAL,,nan,,,,12.0,0.9199
+ROOT,,nan,,,,3.0,0.9412
+NGL,,nan,,,,3.0,0.9892
+LPG,,nan,,,,3.0,0.9892
+CL,,nan,,,,3.0,0.958
+JPM,,nan,,,,6.0,0.8857
+RBC,,nan,,,,3.0,0.8857
+CCI,,nan,,,,6.0,0.2732
+TGT,,nan,,,,6.0,-0.1531
+RC,,nan,,,,3.0,0.9961
+EHTH,,nan,,,,39.0,0.9976000000000002
+HIG,,nan,,,,33.0,0.9976000000000002
+CAC,,nan,,,,9.0,0.9976
+ACH,,nan,,,,3.0,0.9887
+EL,,nan,,,,6.0,-0.9493
+NVDA,,nan,,,,9.0,0.8131
+ERIC,,nan,,,,21.0,0.9974
+CME,,nan,,,,3.0,0.3417
+ASTS,,nan,,,,30.0,0.999
+VC,,nan,,,,3.0,0.999
+LEO,,nan,,,,3.0,0.999
+WTI,,nan,,,,6.0,0.998
+ARR,,nan,,,,9.0,0.9913
+PCT,,nan,,,,6.0,-0.8621
+DNMR,,nan,,,,3.0,-0.8621
+SBSW,,nan,,,,3.0,-0.7822
+XLNX,,nan,,,,9.0,-0.7092
+WDC,,nan,,,,21.0,0.0966999999999999
+BGFV,,nan,,,,9.0,0.9957
+HIBB,,nan,,,,6.0,0.9957
+BGS,,nan,,,,24.0,0.9538
+DB,,nan,,,,3.0,0.9902
+FLEX,,nan,,,,3.0,-0.3184
+CBOE,,nan,,,,12.0,0.9748
