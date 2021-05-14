@@ -1,0 +1,635 @@
+Term,frequency,Company_Name,Sector
+GME,1041,GameStop Corporation Common Stock,Consumer Services
+TA,132,TravelCenters of America Inc. Common Stock,Consumer Services
+TWO,417,Two Harbors Investment Corp,Consumer Services
+TSLA,225,Tesla Inc. Common Stock,Capital Goods
+AIM,12,AIM ImmunoTech Inc. Common Stock,Health Care
+AM,885,Antero Midstream Corporation Common Stock,Public Utilities
+FIVE,57,Five Below Inc. Common Stock,Consumer Services
+WELL,852,Welltower Inc. Common Stock,Consumer Services
+STEP,51,StepStone Group Inc. Class A Common Stock,Finance
+MAIN,99,Main Street Capital Corporation Common Stock,Finance
+CORE,117,Core Mark Holding Co Inc Common Stock,Consumer Non-Durables
+EAT,54,Brinker International Inc. Common Stock,Consumer Services
+ONE,1416,OneSmart International Education Group Limited ADS,Miscellaneous
+PLAY,453,Dave & Buster's Entertainment Inc. Common Stock,Consumer Services
+MAR,36,Marriott International Class A Common Stock,Consumer Services
+HE,891,Hawaiian Electric Industries Inc. Common Stock,
+PLAN,156,Anaplan Inc. Common Stock,Technology
+EYES,42,Second Sight Medical Products Inc. Common Stock,Health Care
+FACT,297,Freedom Acquisition I Corp. Class A Ordinary Shares,Health Care
+FREE,237,Whole Earth Brands Inc. Class A Common Stock,Miscellaneous
+DASH,147,DoorDash Inc. Class A Common Stock,Capital Goods
+SPOT,99,Spotify Technology S.A. Ordinary Shares,Consumer Services
+FT,15,Franklin Universal Trust Common Stock,
+HUGE,336,FSD Pharma Inc. Class B Subordinate Voting Shares,
+GOOD,804,Gladstone Commercial Corporation Real Estate Investment Trust,Consumer Services
+MARK,75,Remark Holdings Inc. Common Stock,Consumer Services
+RUN,231,Sunrun Inc. Common Stock,Capital Goods
+TH,306,Target Hospitality Corp. Common Stock,Energy
+ELSE,168,Electro-Sensors Inc. Common Stock,Capital Goods
+SELF,36,Global Self Storage Inc. Common Stock,Consumer Services
+KEY,141,KeyCorp Common Stock,Finance
+SEE,1056,Sealed Air Corporation Common Stock,Basic Industries
+GRAY,18,Graybug Vision Inc. Common Stock,Health Care
+JAN,105,JanOne Inc. Common Stock (NV),Public Utilities
+PLUS,72,ePlus inc. Common Stock,Technology
+BLUE,57,bluebird bio Inc. Common Stock,Health Care
+MOVE,201,Movano Inc. Common Stock,Health Care
+APR,51,Apria Inc. Common Stock,Health Care
+FUND,132,Sprott Focus Trust Inc. Common Stock,
+WORK,198,Slack Technologies Inc. Class A Common Stock,Technology
+BB,69,BlackBerry Limited Common Stock,
+EVER,312,EverQuote Inc. Class A Common Stock,Technology
+COST,291,Costco Wholesale Corporation Common Stock,Consumer Services
+EBAY,6,eBay Inc. Common Stock,Consumer Services
+NICE,126,NICE Ltd American Depositary Shares,Technology
+COOL,48,Corner Growth Acquisition Corp. Class A Ordinary Shares,Finance
+R,30,Ryder System Inc. Common Stock,Miscellaneous
+V,57,Visa Inc.,Miscellaneous
+NEXT,591,NextDecade Corporation Common Stock,Energy
+TURN,120,180 Degree Capital Corp. Common Stock,Finance
+ONTO,30,Onto Innovation Inc. Common Stock,Technology
+PEAK,96,Healthpeak Properties Inc. Common Stock,Consumer Services
+TEN,51,Tenneco Inc. Class A Voting Common Stock,Capital Goods
+PATH,36,UiPath Inc. Class A Common Stock,Technology
+DD,597,DuPont de Nemours Inc. Common Stock,Capital Goods
+ANY,858,Sphere 3D Corp. Common Shares,
+REAL,402,The RealReal Inc. Common Stock,Consumer Services
+FUN,66,Cedar Fair L.P. Common Stock,Consumer Services
+NEW,849,Puxin Limited American Depositary Shares each representing two Ordinary Shares,Miscellaneous
+AMC,366,AMC Entertainment Holdings Inc. Class A Common Stock,Consumer Services
+AEVA,42,Aeva Technologies Inc. Common Stock,Capital Goods
+AGO,183,Assured Guaranty Ltd. Common Stock,Finance
+HES,108,Hess Corporation Common Stock,Energy
+MIND,105,MIND Technology Inc. Common Stock (DE),Capital Goods
+XL,9,XL Fleet Corp. Class A Common Stock,Capital Goods
+TECH,327,Bio-Techne Corp Common Stock,Health Care
+BIG,399,Big Lots Inc. Common Stock,Consumer Services
+TV,27,Grupo Televisa S.A. Common Stock,Consumer Services
+WISH,63,ContextLogic Inc. Class A Common Stock,Capital Goods
+MAN,81,ManpowerGroup Common Stock,Technology
+GAIN,234,Gladstone Investment Corporation Business Development Company,Finance
+UWMC,495,UWM Holdings Corporation Class A Common Stock,
+SHO,12,Sunstone Hotel Investors Inc. Sunstone Hotel Investors Inc. Common Shares,Consumer Services
+POOL,66,Pool Corporation Common Stock,Consumer Non-Durables
+M,657,Macy's Inc Common Stock,Consumer Services
+RKT,192,Rocket Companies Inc. Class A Common Stock,Finance
+RIDE,75,Lordstown Motors Corp. Class A Common Stock,Capital Goods
+K,603,Kellogg Company Common Stock,Consumer Non-Durables
+POST,522,Post Holdings Inc. Common Stock,Consumer Non-Durables
+AMD,87,Advanced Micro Devices Inc. Common Stock,Technology
+SU,18,Suncor Energy  Inc. Common Stock,
+RARE,27,Ultragenyx Pharmaceutical Inc. Common Stock,Health Care
+BEST,957,BEST Inc. American Depositary Shares each representing one Class A Ordinary Share,
+CLOV,318,Clover Health Investments Corp. Class A Common Stock,Health Care
+ET,231,Energy Transfer LP Common Units ,Public Utilities
+OI,39,O-I Glass Inc. Common Stock,Consumer Durables
+HOPE,162,Hope Bancorp Inc. Common Stock,Finance
+LIVE,108,Live Ventures Incorporated Common Stock,Capital Goods
+FLOW,168,SPX FLOW Inc. Common Stock,Capital Goods
+DIS,33,Walt Disney Company (The) Common Stock,Consumer Services
+BOX,24,Box Inc. Class A Common Stock,Technology
+PLUG,93,Plug Power Inc. Common Stock,Consumer Durables
+TRUE,132,TrueCar Inc. Common Stock,
+FORM,99,FormFactor Inc. FormFactor Inc. Common Stock,Technology
+INFO,81,IHS Markit Ltd. Common Shares,Technology
+JOBS,60,51job Inc. American Depositary Shares,Technology
+TOWN,21,TowneBank Common Stock,
+NOK,66,Nokia Corporation Sponsored American Depositary Shares,Technology
+SHOP,33,Shopify Inc. Class A Subordinate Voting Shares,
+WMT,12,Walmart Inc. Common Stock,Consumer Services
+PLTR,399,Palantir Technologies Inc. Class A Common Stock,Technology
+INO,222,Inovio Pharmaceuticals Inc. Common Stock,Health Care
+T,48,AT&T Inc.,Consumer Services
+ID,216,PARTS iD Inc. Class A Common Stock,Miscellaneous
+NET,369,Cloudflare Inc. Class A Common Stock,Technology
+PT,54,Pintec Technology Holdings Limited American Depositary Shares,Technology
+REV,9,Revlon Inc. New Common Stock,Consumer Non-Durables
+NIO,30,NIO Inc. American depositary shares each  representing one Class A ordinary share,Finance
+ABNB,33,Airbnb Inc. Class A Common Stock,Capital Goods
+SNOW,6,Snowflake Inc. Class A Common Stock,Technology
+X,282,United States Steel Corporation Common Stock,Basic Industries
+IPOD,9,Social Capital Hedosophia Holdings Corp. IV Class A Ordinary Shares,Finance
+CAP,213,Capitol Investment Corp. V Class A Common Stock,
+ATH,66,Athene Holding Ltd. Class A Common Shares,Finance
+LOW,516,Lowe's Companies Inc. Common Stock,Consumer Services
+BILL,96,Bill.com Holdings Inc. Common Stock,Technology
+UBER,33,Uber Technologies Inc. Common Stock,Technology
+GRUB,18,GrubHub Inc. Common Stock,Miscellaneous
+CUZ,39,Cousins Properties Incorporated Common Stock,Consumer Services
+LYFT,6,Lyft Inc. Class A Common Stock,Technology
+OPEN,249,Opendoor Technologies Inc Common Stock,Finance
+LIFE,177,aTyr Pharma Inc. Common Stock,Health Care
+U,21,Unity Software Inc. Common Stock,Technology
+GIG,6,GigCapital4 Inc. Common stock,
+OFC,6,Corporate Office Properties Trust Common Stock,Consumer Services
+BABA,69,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,Consumer Services
+XOM,9,Exxon Mobil Corporation Common Stock,Energy
+RCL,6,D/B/A Royal Caribbean Cruises Ltd. Common Stock,
+EDIT,111,Editas Medicine Inc. Common Stock,Health Care
+AGE,66,AgeX Therapeutics Inc. Common Stock,Health Care
+APP,57,Applovin Corporation Class A Common Stock,Technology
+L,21,Loews Corporation Common Stock,Finance
+SKY,18,Skyline Champion Corporation Common Stock,Basic Industries
+VS,186,Versus Systems Inc. Common Shares,
+GOLD,240,Barrick Gold Corporation Common Stock (BC),
+CAKE,21,Cheesecake Factory Incorporated (The) Common Stock,Consumer Services
+SHIP,21,Seanergy Maritime Holdings Corp Common Stock,
+KIDS,72,OrthoPediatrics Corp. Common Stock,Health Care
+SAFE,123,Safehold Inc. Common Stock,Consumer Services
+ROOT,9,Root Inc. Class A Common Stock,Finance
+MET,24,MetLife Inc. Common Stock,Finance
+MASS,45,908 Devices Inc. Common Stock,Health Care
+IBM,15,International Business Machines Corporation Common Stock,Technology
+GROW,174,U.S. Global Investors Inc. Class A Common Stock,Finance
+RACE,21,Ferrari N.V. Common Shares,Capital Goods
+USA,45,Liberty All-Star Equity Fund Common Stock,
+AI,90,C3.ai Inc. Class A Common Stock,Technology
+CARE,216,Carter Bankshares Inc. Common Stock,Finance
+NOV,9,NOV Inc. Common Stock,Energy
+QS,24,QuantumScape Corporation Class A Common Stock,Capital Goods
+MSFT,51,Microsoft Corporation Common Stock,Technology
+MYOV,12,Myovant Sciences Ltd. Common Shares,Health Care
+BIT,192,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,
+DOC,6,Physicians Realty Trust Common Shares of Beneficial Interest,Consumer Services
+MA,132,Mastercard Incorporated Common Stock,Miscellaneous
+CASH,453,Meta Financial Group Inc. Common Stock,Finance
+FLUX,12,Flux Power Holdings Inc. Common Stock,Capital Goods
+DOW,48,Dow Inc. Common Stock ,Basic Industries
+HR,18,Healthcare Realty Trust Incorporated Common Stock,Consumer Services
+JOB,87,GEE Group Inc. Common Stock,Technology
+FAT,33,FAT Brands Inc. Common Stock,Consumer Services
+CCL,33,Carnival Corporation Common Stock,
+LNG,24,Cheniere Energy Inc. Common Stock,Public Utilities
+DE,12,Deere & Company Common Stock,Capital Goods
+MO,18,Altria Group Inc.,Consumer Non-Durables
+VTRS,12,Viatris Inc. Common Stock,Consumer Durables
+OXY,6,Occidental Petroleum Corporation Common Stock,Energy
+VIEW,66,View Inc. Class A Common Stock,
+MVIS,54,MicroVision Inc. Common Stock,Capital Goods
+TELL,93,Tellurian Inc. Common Stock,Energy
+UNH,12,UnitedHealth Group Incorporated Common Stock (DE),Health Care
+FLY,45,Fly Leasing Limited,Technology
+MILE,6,Metromile Inc. Common Stock,Finance
+CAR,63,Avis Budget Group Inc. Common Stock,Miscellaneous
+BOB,6,Merlyn.AI Best-of-Breed Core Momentum ETF,
+SP,138,SP Plus Corporation Common Stock,Miscellaneous
+UNIT,9,Uniti Group Inc. Common Stock,Consumer Services
+HOME,162,At Home Group Inc. Common Stock,Consumer Services
+G,189,Genpact Limited Common Stock,Consumer Services
+AIR,36,AAR Corp. Common Stock,Capital Goods
+LOVE,198,The Lovesac Company Common Stock,
+SNDL,21,Sundial Growers Inc. Common Shares,
+TLRY,24,Tilray Inc. Class 2 Common Stock,Consumer Durables
+VIAC,30,ViacomCBS Inc. Class B Common Stock,Consumer Services
+HEAR,90,Turtle Beach Corporation Common Stock,Consumer Non-Durables
+ACC,6,American Campus Communities Inc Common Stock,Consumer Services
+EXPO,6,Exponent Inc. Common Stock,Consumer Services
+CAT,48,Caterpillar Inc. Common Stock,Capital Goods
+CLNY,30,Colony Capital Inc.,Consumer Services
+RE,12,Everest Re Group Ltd. Common Stock,Finance
+FOUR,24,Shift4 Payments Inc. Class A Common Stock,Technology
+PH,6,Parker-Hannifin Corporation Common Stock,Capital Goods
+HI,36,Hillenbrand Inc Common Stock,Miscellaneous
+TSM,36,Taiwan Semiconductor Manufacturing Company Ltd.,Technology
+COLD,45,Americold Realty Trust Common Shares,Finance
+COG,6,Cabot Oil & Gas Corporation Common Stock,Energy
+MAX,33,MediaAlpha Inc. Class A Common Stock,Capital Goods
+BA,24,Boeing Company (The) Common Stock,Capital Goods
+EAST,48,Eastside Distilling Inc. Common Stock,Consumer Non-Durables
+KSU,12,Kansas City Southern Common Stock,Transportation
+C,177,Citigroup Inc. Common Stock,Finance
+RAIL,12,FreightCar America Inc. Common Stock,Capital Goods
+GUT,9,Gabelli Utility Trust (The) Common Stock,
+RGR,6,Sturm Ruger & Company Inc. Common Stock,
+LAZY,21,Lazydays Holdings Inc. Common Stock,Consumer Services
+MAT,81,Mattel Inc. Common Stock,Consumer Non-Durables
+PAYS,24,Paysign Inc. Common Stock,Finance
+TEAM,87,Atlassian Corporation Plc Class A Ordinary Shares,Technology
+AUTO,30,AutoWeb Inc. Common Stock,Miscellaneous
+FSR,12,Fisker Inc. Class A Common Stock,
+CARS,39,Cars.com Inc. Common Stock ,
+COIN,45,Coinbase Global Inc. Class A Common Stock,Technology
+UPS,6,United Parcel Service Inc. Common Stock,Transportation
+MIT,6,Mason Industrial Technology Inc. Class A Common Stock,
+STAY,90,Extended Stay America Inc. Paired Shares,Consumer Services
+ABT,6,Abbott Laboratories Common Stock,Health Care
+BMBL,30,Bumble Inc. Class A Common Stock,Technology
+FAST,78,Fastenal Company Common Stock,
+MTCH,12,Match Group Inc. Common Stock,
+J,15,Jacobs Engineering Group Inc. Common Stock,Capital Goods
+DUDE,18,Merlyn.AI SectorSurfer Momentum ETF,
+EW,24,Edwards Lifesciences Corporation Common Stock,Health Care
+D,87,Dominion Energy Inc. Common Stock,Public Utilities
+AMP,12,Ameriprise Financial Inc. Common Stock,Finance
+SRNE,6,Sorrento Therapeutics Inc.  Common Stock,Health Care
+RTX,18,Raytheon Technologies Corporation Common Stock,Capital Goods
+LINK,81,Interlink Electronics Inc. Common Stock,Capital Goods
+MMS,18,Maximus Inc. Common Stock,Miscellaneous
+EYE,39,National Vision Holdings Inc. Common Stock,Health Care
+AMZN,30,Amazon.com Inc. Common Stock,Consumer Services
+ZM,6,Zoom Video Communications Inc. Class A Common Stock,Consumer Services
+NTRA,30,Natera Inc. Common Stock,Health Care
+YY,30,JOYY Inc. American Depositary Shares,Technology
+TRQ,12,Turquoise Hill Resources Ltd. Ordinary Shares,
+MED,6,MEDIFAST INC Common Stock,Miscellaneous
+SUP,12,Superior Industries International Inc. Common Stock (DE),Capital Goods
+CMS,42,CMS Energy Corporation Common Stock,Public Utilities
+KO,15,Coca-Cola Company (The) Common Stock,Consumer Non-Durables
+AAPL,60,Apple Inc. Common Stock,Technology
+GOOGL,9,Alphabet Inc. Class A Common Stock,Technology
+ADS,27,Alliance Data Systems Corporation Common Stock,Finance
+COKE,9,Coca-Cola Consolidated Inc. Common Stock,Consumer Non-Durables
+SITE,30,SiteOne Landscape Supply Inc. Common Stock,
+RAIN,9,Rain Therapeutics Inc. Common Stock,Health Care
+MARA,18,Marathon Digital Holdings Inc. Common Stock,Finance
+RIOT,18,Riot Blockchain Inc.  Common Stock ,Technology
+OCGN,6,Ocugen Inc. Common Stock,Health Care
+RDFN,18,Redfin Corporation Common Stock,Finance
+AC,102,Associated Capital Group Inc. Common Stock,Finance
+DCF,27,BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund Inc. Common Stock,
+SAN,9,Banco Santander S.A. Sponsored ADR (Spain),Finance
+SAVE,45,Spirit Airlines Inc. Common Stock,Transportation
+FDS,24,FactSet Research Systems Inc. Common Stock,Technology
+ICE,18,Intercontinental Exchange Inc. Common Stock,
+TRIP,18,TripAdvisor Inc. Common Stock,
+MNMD,9,Mind Medicine (MindMed) Inc. Subordinate Voting Shares,
+GLAD,15,Gladstone Capital Corporation Common Stock,Finance
+HALL,9,Hallmark Financial Services Inc. Common Stock,Finance
+EXPR,18,Express Inc. Common Stock,
+GM,12,General Motors Company Common Stock,Capital Goods
+BSY,6,Bentley Systems Incorporated Class B Common Stock,Technology
+NRG,18,NRG Energy Inc. Common Stock,Public Utilities
+PAR,9,PAR Technology Corporation Common Stock,Technology
+PM,57,Philip Morris International Inc Common Stock,Consumer Non-Durables
+FUSE,6,Fusion Acquisition Corp. Class A Common Stock,
+SAIL,6,SailPoint Technologies Holdings Inc. Common Stock,Technology
+LOAN,90,Manhattan Bridge Capital Inc,Consumer Services
+OC,15,Owens Corning Inc Common Stock New,
+SI,42,Silvergate Capital Corporation Class A Common Stock,
+LEAP,18,Ribbit LEAP Ltd. Class A Ordinary Shares,Finance
+OGS,15,ONE Gas Inc. Common Stock,Public Utilities
+FTCH,18,Farfetch Limited Class A Ordinary Shares,Consumer Services
+KEN,9,Kenon Holdings Ltd. Ordinary Shares,Public Utilities
+TIL,6,Instil Bio Inc. Common Stock,Health Care
+JP,24,Jupai Holdings Limited American Depositary Shares each representing six ordinary shares,Consumer Services
+ROLL,27,RBC Bearings Incorporated Common Stock,Capital Goods
+LMAO,15,LMF Acquisition Opportunities Inc. Class A common stock,
+FORTY,6,Formula Systems (1985) Ltd. American Depositary Shares,Technology
+WING,6,Wingstop Inc. Common Stock,Consumer Services
+PACE,27,TPG Pace Tech Opportunities Corp. Class A Ordinary Shares,Finance
+FAIL,42,Cambria ETF Trust Cambria Global Tail Risk ETF,
+EFT,6,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,
+CARG,6,CarGurus Inc. Class A Common Stock ,
+NFLX,12,Netflix Inc. Common Stock,Consumer Services
+CO,30,Global Cord Blood Corporation Common Stock,Health Care
+MTG,6,MGIC Investment Corporation Common Stock,Finance
+RBLX,24,Roblox Corporation Class A Common Stock,Technology
+F,33,Ford Motor Company Common Stock,Capital Goods
+RSI,99,Rush Street Interactive Inc. Class A Common Stock,Consumer Services
+DTE,9,DTE Energy Company Common Stock,Public Utilities
+VG,60,Vonage Holdings Corp. Common Stock,Public Utilities
+CCS,33,Century Communities Inc. Common Stock,Capital Goods
+LEAF,6,Leaf Group Ltd. Common Stock,Technology
+DGX,42,Quest Diagnostics Incorporated Common Stock,Health Care
+DDS,18,Dillard's Inc. Common Stock,Consumer Services
+LH,6,Laboratory Corporation of America Holdings Common Stock,Health Care
+ASR,12,Grupo Aeroportuario del Sureste S.A. de C.V. Common Stock,Transportation
+ROCK,18,Gibraltar Industries Inc. Common Stock,
+ALLY,6,Ally Financial Inc. Common Stock,Finance
+ST,81,Sensata Technologies Holding plc Ordinary Shares,Capital Goods
+NEM,12,Newmont Corporation,Basic Industries
+GDP,48,Goodrich Petroleum Corporation Common Stock,Energy
+TRN,24,Trinity Industries Inc. Common Stock,Capital Goods
+III,24,Information Services Group Inc. Information Services Group Inc. Common Stock,Technology
+ROAD,6,Construction Partners Inc. Class A Common Stock,Capital Goods
+MAC,12,Macerich Company (The) Common Stock,Consumer Services
+LMND,6,Lemonade Inc. Common Stock,Finance
+BBW,6,Build-A-Bear Workshop Inc. Common Stock,Consumer Services
+PROS,21,ProSight Global Inc. Common Stock,Finance
+RXT,9,Rackspace Technology Inc. Common Stock,Technology
+COP,12,ConocoPhillips Common Stock,Energy
+UK,21,Ucommune International Ltd Ordinary Shares,Miscellaneous
+ASO,69,Academy Sports and Outdoors Inc. Common Stock,Consumer Non-Durables
+PRO,15,PROS Holdings Inc. Common Stock,Technology
+AR,12,Antero Resources Corporation Common Stock,Energy
+SON,9,Sonoco Products Company Common Stock,Basic Industries
+ARRY,12,Array Technologies Inc. Common Stock,Technology
+NI,18,NiSource Inc Common Stock,Public Utilities
+FICO,6,Fair Isaac Corproation Common Stock,Technology
+NINE,12,Nine Energy Service Inc. Common Stock,Energy
+NYT,6,New York Times Company (The) Common Stock,Consumer Services
+FLIR,12,FLIR Systems Inc. (DE) Common Stock,Capital Goods
+FAF,6,First American Corporation (New) Common Stock,Finance
+LAWS,18,Lawson Products Inc. Common Stock,Capital Goods
+LMT,12,Lockheed Martin Corporation Common Stock,Capital Goods
+NKLA,15,Nikola Corporation Common Stock,Capital Goods
+FORD,12,Forward Industries Inc. Common Stock,
+BOOM,51,DMC Global Inc. Common Stock,
+CRSP,6,CRISPR Therapeutics AG Common Shares,Health Care
+AFRM,15,Affirm Holdings Inc. Class A Common Stock,Technology
+ANTE,12,AirNet Technology Inc. American Depositary Shares,Technology
+VEL,30,Velocity Financial Inc. Common Stock,Finance
+LEO,30,BNY Mellon Strategic Municipals Inc. Common Stock,
+SEM,24,Select Medical Holdings Corporation Common Stock,Health Care
+EMP,6,Entergy Mississippi LLC First Mortgage Bonds 4.90% Series Due October 1 2066,
+DMTK,6,DermTech Inc. Common Stock,Health Care
+CRY,12,CryoLife Inc. Common Stock,Health Care
+UBS,15,UBS Group AG Registered Ordinary Shares,Finance
+FN,6,Fabrinet Ordinary Shares,Public Utilities
+ALEX,24,Alexander & Baldwin Inc. Common Stock REIT Holding Company,Consumer Services
+OSCR,6,Oscar Health Inc. Class A Common Stock,Finance
+HUM,6,Humana Inc. Common Stock,Health Care
+RAMP,15,LiveRamp Holdings Inc. Common Stock,Technology
+SWN,12,Southwestern Energy Company Common Stock,Energy
+NG,18,Novagold Resources Inc.,
+TCF,6,TCF Financial Corporation Common Stock,Finance
+NAT,12,Nordic American Tankers Limited Common Stock,Transportation
+SKLZ,21,Skillz Inc. Class A Common Stock,Technology
+CLF,15,Cleveland-Cliffs Inc. Common Stock,
+CRSR,9,Corsair Gaming Inc. Common Stock,Technology
+FUBO,33,fuboTV Inc. Common Stock,Consumer Services
+ROKU,9,Roku Inc. Class A Common Stock,Consumer Services
+DKNG,36,DraftKings Inc. Class A Common Stock,Consumer Services
+IHRT,6,iHeartMedia Inc. Class A Common Stock,Consumer Services
+LAND,39,Gladstone Land Corporation Common Stock,Consumer Services
+FB,15,Facebook Inc. Class A Common Stock,Technology
+THO,6,Thor Industries Inc. Common Stock,Consumer Non-Durables
+RIO,6,Rio Tinto Plc Common Stock,Basic Industries
+IMO,27,Imperial Oil Limited Common Stock,
+TS,6,Tenaris S.A. American Depositary Shares,Basic Industries
+LDI,6,loanDepot Inc. Class A Common Stock,Finance
+GL,3,Globe Life Inc. Common Stock,Finance
+SDC,9,SmileDirectClub Inc. Class A Common Stock,Health Care
+DAN,12,Dana Incorporated Common Stock ,Capital Goods
+TXT,3,Textron Inc. Common Stock,Capital Goods
+WOW,9,WideOpenWest Inc. Common Stock,Consumer Services
+BAND,21,Bandwidth Inc. Class A Common Stock,Technology
+Z,3,Zillow Group Inc. Class C Capital Stock,Miscellaneous
+Y,18,Alleghany Corporation Common Stock,Finance
+HUYA,18,HUYA Inc. American depositary shares each  representing one Class A ordinary share,Consumer Services
+SVC,6,Service Properties Trust Common Stock,Consumer Services
+H,15,Hyatt Hotels Corporation Class A Common Stock,Consumer Services
+PSA,3,Public Storage Common Stock,Consumer Services
+IFF,9,Internationa Flavors & Fragrances Inc. Common Stock,Basic Industries
+TWTR,15,Twitter Inc. Common Stock,Technology
+GOLF,6,Acushnet Holdings Corp. Common Stock,Consumer Non-Durables
+ISLE,3,Isleworth Healthcare Acquisition Corporation Common stock,
+APD,3,Air Products and Chemicals Inc. Common Stock,Basic Industries
+PRPL,6,Purple Innovation Inc. Common Stock,Consumer Durables
+BNGO,12,Bionano Genomics Inc. Common Stock,Capital Goods
+NUE,12,Nucor Corporation Common Stock,Basic Industries
+SEAS,3,SeaWorld Entertainment Inc. Common Stock,Consumer Services
+ACB,30,Aurora Cannabis Inc. Common Shares,
+SNAP,15,Snap Inc. Class A Common Stock,Technology
+CBD,3,Companhia Brasileira de Distribuicao American Depsitary Shares; each representing one Common Share,Consumer Services
+VFF,3,Village Farms International Inc. Common Shares,
+DOX,54,Amdocs Limited Ordinary Shares,Technology
+HSBC,3,HSBC Holdings plc. Common Stock,Finance
+MAS,3,Masco Corporation Common Stock,Capital Goods
+SIX,15,Six Flags Entertainment Corporation New Common Stock,Consumer Services
+WIFI,3,Boingo Wireless Inc. Common Stock,Consumer Services
+AKAM,3,Akamai Technologies Inc. Common Stock,Miscellaneous
+CIEN,3,Ciena Corporation Common Stock,Public Utilities
+CTXS,3,Citrix Systems Inc. Common Stock,Technology
+CTSH,3,Cognizant Technology Solutions Corporation Class A Common Stock,Technology
+DOOR,12,Masonite International Corporation Ordinary Shares (Canada),
+NYC,3,New York City REIT Inc. Class A Common Stock,Consumer Services
+HMC,3,Honda Motor Company Ltd. Common Stock,Capital Goods
+HOG,6,Harley-Davidson Inc. Common Stock,Consumer Non-Durables
+PII,3,Polaris Inc. Common Stock,Consumer Non-Durables
+DKS,3,Dick's Sporting Goods Inc Common Stock,Consumer Services
+QUAD,6,Quad Graphics Inc Class A Common Stock,Consumer Services
+QCOM,15,QUALCOMM Incorporated Common Stock,Technology
+BTU,9,Peabody Energy Corporation Common Stock ,Energy
+MSTR,12,MicroStrategy Incorporated Common Stock Class A,Technology
+BAK,3,Braskem SA ADR,Basic Industries
+ENPH,9,Enphase Energy Inc. Common Stock,Capital Goods
+CLNE,21,Clean Energy Fuels Corp. Common Stock,Public Utilities
+SNP,3,China Petroleum & Chemical Corporation Common Stock,Energy
+SM,3,SM Energy Company Common Stock,Energy
+BKR,9,Baker Hughes Company Class A Common Stock,Energy
+SUM,12,Summit Materials Inc. Class A Common Stock,Capital Goods
+VZIO,9,VIZIO Holding Corp. Class A Common Stock,Consumer Non-Durables
+IBKR,3,Interactive Brokers Group Inc. Class A Common Stock,Finance
+RH,27,RH Common Stock,Consumer Services
+MT,9,Arcelor Mittal NY Registry Shares NEW,Basic Industries
+STLD,3,Steel Dynamics Inc.,Basic Industries
+TTM,3,Tata Motors Ltd Tata Motors Limited,Capital Goods
+PB,15,Prosperity Bancshares Inc. Common Stock,Finance
+PUMP,3,ProPetro Holding Corp. Common Stock,Energy
+MIN,21,MFS Intermediate Income Trust Common Stock,
+PENN,33,Penn National Gaming Inc. Common Stock,Consumer Services
+TLC,3,Taiwan Liposome Company Ltd. American Depository Shares,Health Care
+NNDM,3,Nano Dimension Ltd. American Depositary Shares,Technology
+NNOX,3,NANO-X IMAGING LTD Ordinary Shares,Health Care
+LOCO,3,El Pollo Loco Holdings Inc. Common Stock,Consumer Services
+ED,3,Consolidated Edison Inc. Common Stock,Public Utilities
+KKR,27,KKR & Co. Inc. Common Stock,Finance
+KKRS,3,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,
+JMIA,3,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,Consumer Services
+XPEV,6,XPeng Inc. American depositary shares each representing two Class A ordinary shares,Capital Goods
+SPCE,18,Virgin Galactic Holdings Inc. Common Stock,
+ALOT,6,AstroNova Inc. Common Stock,Technology
+VLDR,3,Velodyne Lidar Inc. Common Stock,Capital Goods
+LAZR,12,Luminar Technologies Inc.  Class A Common Stock,Technology
+PSFE,15,Paysafe Limited Common Shares,Miscellaneous
+CAI,6,CAI International Inc. Common Stock,Technology
+JNJ,6,Johnson & Johnson Common Stock,Health Care
+WKHS,3,Workhorse Group Inc. Common Stock,Capital Goods
+FCEL,6,FuelCell Energy Inc. Common Stock,Public Utilities
+UPST,30,Upstart Holdings Inc. Common stock,Finance
+IR,6,Ingersoll Rand Inc. Common Stock,Capital Goods
+LEE,6,Lee Enterprises Incorporated Common Stock,Consumer Services
+BBQ,6,BBQ Holdings Inc. Common Stock,Consumer Services
+TSN,6,Tyson Foods Inc. Common Stock,Consumer Non-Durables
+DT,3,Dynatrace Inc. Common Stock,Technology
+KIM,9,Kimco Realty Corporation Common Stock,Consumer Services
+GEVO,33,Gevo Inc. Common Stock,Health Care
+JOE,3,St. Joe Company (The) Common Stock,Consumer Services
+SEB,3,Seaboard Corporation Common Stock,
+MGM,12,MGM Resorts International Common Stock,Consumer Services
+BLNK,12,Blink Charging Co. Common Stock,Miscellaneous
+BLDP,3,Ballard Power Systems Inc. Common Shares,
+SQ,21,Square Inc. Class A Common Stock,Technology
+TX,6,Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares USD1.00 par value),Basic Industries
+FL,3,Foot Locker Inc.,Consumer Services
+HRTX,3,Heron Therapeutics Inc. Common Stock,Consumer Durables
+CRL,6,Charles River Laboratories International Inc. Common Stock,Consumer Services
+CMPS,3,COMPASS Pathways Plc American Depository Shares,Health Care
+UAL,3,United Airlines Holdings Inc. Common Stock,Transportation
+MESA,3,Mesa Air Group Inc. Common Stock,Transportation
+TD,15,Toronto Dominion Bank (The) Common Stock,
+SGA,9,Saga Communications Inc. Class A Common Stock (FL),Consumer Services
+OM,9,Outset Medical Inc. Common Stock,Health Care
+MN,9,Manning & Napier Inc. Class A Common Stock,Finance
+EARN,6,Ellington Residential Mortgage REIT Common Shares of Beneficial Interest,Consumer Services
+CMD,6,Cantel Medical Corp. Common Stock,Health Care
+MCD,3,McDonald's Corporation Common Stock,Consumer Services
+VET,9,Vermilion Energy Inc. Common (Canada),
+CNQ,3,Canadian Natural Resources Limited Common Stock,
+PTON,27,Peloton Interactive Inc. Class A Common Stock,Consumer Services
+EPD,3,Enterprise Products Partners L.P. Common Stock,Public Utilities
+CS,12,Credit Suisse Group American Depositary Shares,Finance
+MRNA,12,Moderna Inc. Common Stock,Health Care
+EARS,18,Auris Medical Holding Ltd. Common Shares 0.01 SF (Bermuda),Health Care
+AG,9,First Majestic Silver Corp. Ordinary Shares (Canada),
+OG,3,Onion Global Limited American Depositary Shares (each ten (10) ADSs representing one (1) Class A Ordinary Share),
+AA,6,Alcoa Corporation Common Stock ,Basic Industries
+TAP,9,Molson Coors Beverage Company Class B Common Stock,Consumer Non-Durables
+REGN,6,Regeneron Pharmaceuticals Inc. Common Stock,Health Care
+THQ,3,Tekla Healthcare Opportunies Fund Shares of Beneficial Interest,
+PD,15,PagerDuty Inc. Common Stock,Technology
+MD,6,Mednax Inc. Common Stock,Health Care
+E,6,ENI S.p.A. Common Stock,Energy
+MG,3,Mistras Group Inc Common Stock,Miscellaneous
+VZ,18,Verizon Communications Inc. Common Stock,Public Utilities
+TMUS,6,T-Mobile US Inc. Common Stock,Public Utilities
+CHTR,3,Charter Communications Inc. Class A Common Stock New,Consumer Services
+GPM,3,Guggenheim Enhanced Equity Income Fund,
+FIX,9,Comfort Systems USA Inc. Common Stock,Capital Goods
+LI,6,Li Auto Inc. American Depositary Shares,Capital Goods
+CRH,18,CRH PLC American Depositary Shares,Capital Goods
+EMR,6,Emerson Electric Company Common Stock,Capital Goods
+WY,12,Weyerhaeuser Company Common Stock,Consumer Services
+ACRE,6,Ares Commercial Real Estate Corporation Common Stock,Consumer Services
+API,6,Agora Inc. American Depositary Shares,Technology
+RIG,6,Transocean Ltd (Switzerland) Common Stock,Energy
+LEV,3,The Lion Electric Company Common Shares,
+APPS,21,Digital Turbine Inc. Common Stock,Technology
+IRL,3,New Ireland Fund Inc (The) Common Stock,
+FARM,3,Farmer Brothers Company Common Stock,Consumer Non-Durables
+W,6,Wayfair Inc. Class A Common Stock,Consumer Services
+EDR,3,Endeavor Group Holdings Inc. Class A Common Stock,Consumer Services
+MCR,3,MFS Charter Income Trust Common Stock,
+NAV,6,Navistar International Corporation Common Stock,Capital Goods
+WASH,6,Washington Trust Bancorp Inc. Common Stock,Finance
+SWKS,6,Skyworks Solutions Inc. Common Stock,Technology
+SLAB,3,Silicon Laboratories Inc. Common Stock,Technology
+CI,3,Cigna Corporation Common Stock,Health Care
+LUNG,3,Pulmonx Corporation Common Stock,Health Care
+RY,3,Royal Bank Of Canada Common Stock,
+BR,3,Broadridge Financial Solutions Inc.Common Stock,Miscellaneous
+BG,3,Bunge Limited Bunge Limited,Basic Industries
+TEX,6,Terex Corporation Common Stock,Capital Goods
+TDOC,9,Teladoc Health Inc. Common Stock,Health Care
+UI,3,Ubiquiti Inc. Common Stock,Technology
+VIACA,3,ViacomCBS Inc. Class A Common Stock,Consumer Services
+CHPT,3,ChargePoint Holdings Inc. Common Stock,Consumer Services
+GOTU,6,GSX Techedu Inc. American Depositary Shares,
+PFE,6,Pfizer Inc. Common Stock,Health Care
+AMT,6,American Tower Corporation (REIT) Common Stock,Finance
+PNC,6,PNC Financial Services Group Inc. (The) Common Stock,Finance
+SFIX,6,Stitch Fix Inc. Class A Common Stock,Consumer Services
+TTD,6,The Trade Desk Inc. Class A Common Stock,Technology
+GDRX,3,GoodRx Holdings Inc. Class A Common Stock,Technology
+FCF,9,First Commonwealth Financial Corporation Common Stock,Finance
+GE,15,General Electric Company Common Stock,Consumer Durables
+SBUX,3,Starbucks Corporation Common Stock,
+ERJ,6,Embraer S.A. Common Stock,Capital Goods
+SEED,3,Origin Agritech Limited Common Stock,
+EXPE,6,Expedia Group Inc. Common Stock,Transportation
+ALGN,6,Align Technology Inc. Common Stock,Health Care
+CVX,6,Chevron Corporation Common Stock,Energy
+TSCO,6,Tractor Supply Company Common Stock,Consumer Services
+KMI,9,Kinder Morgan Inc. Common Stock,Public Utilities
+GS,6,Goldman Sachs Group Inc. (The) Common Stock,Finance
+PINS,9,Pinterest Inc. Class A Common Stock,
+EGHT,9,8x8 Inc Common Stock,Technology
+MDB,6,MongoDB Inc. Class A Common Stock,Technology
+PCG,6,Pacific Gas & Electric Co. Common Stock,Public Utilities
+BYND,6,Beyond Meat Inc. Common Stock,Consumer Non-Durables
+COUR,6,Coursera Inc. Common Stock,Miscellaneous
+HEP,6,Holly Energy Partners L.P. Common Stock,
+CSCO,6,Cisco Systems Inc. Common Stock (DE),Technology
+PLNT,6,Planet Fitness Inc. Common Stock,Consumer Services
+ADT,6,ADT Inc. Common Stock,Consumer Services
+TW,6,Tradeweb Markets Inc. Class A Common Stock,Finance
+COF,9,Capital One Financial Corporation Common Stock,Finance
+NOC,6,Northrop Grumman Corporation Common Stock,Miscellaneous
+ADM,6,Archer-Daniels-Midland Company Common Stock,
+AAL,12,American Airlines Group Inc. Common Stock,Transportation
+WHR,9,Whirlpool Corporation Common Stock,Consumer Durables
+SOLO,3,Electrameccanica Vehicles Corp. Ltd. Common Stock,Capital Goods
+CVS,9,CVS Health Corporation Common Stock,Health Care
+CRM,6,Salesforce.com Inc Common Stock,Technology
+FATE,3,Fate Therapeutics Inc. Common Stock,Health Care
+LUMN,3,Lumen Technologies Inc. Common Stock,Public Utilities
+CGAU,6,Centerra Gold Inc. Common Shares,
+LAKE,3,Lakeland Industries Inc. Common Stock,
+NGL,3,NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests,
+LPG,3,Dorian LPG Ltd. Common Stock,Transportation
+COTY,6,Coty Inc. Class A Common Stock,Consumer Non-Durables
+SBH,3,Sally Beauty Holdings Inc. (Name to be changed from Sally Holdings Inc.) Common Stock,Miscellaneous
+FUTU,3,Futu Holdings Limited American Depositary Shares,Finance
+CL,3,Colgate-Palmolive Company Common Stock,Consumer Non-Durables
+JPM,6,JP Morgan Chase & Co. Common Stock,Finance
+ANDA,3,Andina Acquisition Corp. III Ordinary Shares,Finance
+RBC,3,Regal Beloit Corporation Common Stock,Consumer Durables
+CD,30,Chindata Group Holdings Limited American Depositary Shares,Finance
+O,6,Realty Income Corporation Common Stock,Consumer Services
+CCI,6,Crown Castle International Corp. (REIT) Common Stock,
+TGT,6,Target Corporation Common Stock,Consumer Services
+EXPI,3,eXp World Holdings Inc. Common Stock,Finance
+PAI,3,Western Asset Investment Grade Income Fund Inc.,
+GOOG,3,Alphabet Inc. Class C Capital Stock,Technology
+CAL,3,Caleres Inc. Common Stock,Consumer Non-Durables
+VOD,3,Vodafone Group Plc American Depositary Shares,Public Utilities
+MOMO,6,Momo Inc. American Depositary Shares,Technology
+MEG,3,Montrose Environmental Group Inc. Common Stock,
+RC,3,Ready Capital Corproation Common Stock,Consumer Services
+EHTH,39,eHealth Inc. Common Stock,Finance
+HIG,33,Hartford Financial Services Group Inc. (The) Common Stock,Finance
+CAC,9,Camden National Corporation Common Stock,Finance
+WM,3,Waste Management Inc. Common Stock,Public Utilities
+RGEN,3,Repligen Corporation Common Stock,Health Care
+AL,3,Air Lease Corporation Class A Common Stock,Technology
+HAYW,6,Hayward Holdings Inc. Common Stock,Technology
+LESL,15,Leslie's Inc. Common Stock,Consumer Services
+SWIM,3,Latham Group Inc. Common Stock,Capital Goods
+BC,3,Brunswick Corporation Common Stock,Consumer Non-Durables
+FLGT,12,Fulgent Genetics Inc. Common Stock,Health Care
+SABR,3,Sabre Corporation Common Stock,Technology
+TPR,6,Tapestry Inc. Common Stock,Consumer Non-Durables
+UNFI,6,United Natural Foods Inc. Common Stock,Consumer Non-Durables
+CCJ,3,Cameco Corporation Common Stock,
+EQT,3,EQT Corporation Common Stock,Energy
+FCX,3,Freeport-McMoRan Inc. Common Stock,Basic Industries
+PYPL,3,PayPal Holdings Inc. Common Stock,Miscellaneous
+INTC,3,Intel Corporation Common Stock,Technology
+CF,3,CF Industries Holdings Inc. Common Stock,Basic Industries
+LB,21,L Brands Inc.,Consumer Services
+LOOP,9,Loop Industries Inc. Common Stock,
+ACH,3,Aluminum Corporation of China Limited American Depositary Shares,Basic Industries
+EL,6,Estee Lauder Companies Inc. (The) Common Stock,Consumer Non-Durables
+FURY,3,Fury Gold Mines Limited Common Shares,
+NVDA,3,NVIDIA Corporation Common Stock,Technology
+MIC,3,Macquarie Infrastructure Corporation Common Stock,Transportation
+RICE,3,Rice Acquisition Corp. Class A Common Stock,
+FOLD,3,Amicus Therapeutics Inc. Common Stock,Health Care
+FOX,6,Fox Corporation Class B Common Stock,Consumer Services
+SUN,3,Sunoco LP Common Units representing limited partner interests,Energy
+BRO,6,Brown & Brown Inc. Common Stock,Finance
+GMED,3,Globus Medical Inc. Class A Common Stock,Health Care
+BEN,3,Franklin Resources Inc. Common Stock,Finance
+EOD,6,Wells Fargo Global Dividend Opportunity Fund,
+FLEX,3,Flex Ltd. Ordinary Shares,Technology
+IRS,3,IRSA Inversiones Y Representaciones S.A. Common Stock,Consumer Services
+EM,6,Smart Share Global Limited American Depositary Shares,Consumer Services
+CBOE,12,Cboe Global Markets Inc. Common Stock,
+MOD,15,Modine Manufacturing Company Common Stock,Capital Goods
+SKIN,6,The Beauty Health Company Class A Common Stock,
+LEDS,3,SemiLEDS Corporation Common Stock,Technology
+MSM,6,MSC Industrial Direct Company Inc. Common Stock,Capital Goods
+DECK,3,Deckers Outdoor Corporation Common Stock,Consumer Non-Durables
+SAM,3,Boston Beer Company Inc. (The) Common Stock,Consumer Non-Durables
+PHD,3,Pioneer Floating Rate Fund Inc.,
+DARE,3,Dare Bioscience Inc. Common Stock,Health Care
+DM,6,Desktop Metal Inc. Class A Common Stock,Technology
+PLOW,3,Douglas Dynamics Inc. Common Stock,Capital Goods
+PACK,3,Ranpak Holdings Corp Class A Common Stock,Basic Industries
+PMD,3,Psychemedics Corporation,Health Care
+TREE,3,LendingTree Inc. Common Stock,Finance
+GF,3,New Germany Fund Inc. (The) Common Stock,
+BBBY,3,Bed Bath & Beyond Inc. Common Stock,Consumer Services
