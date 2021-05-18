@@ -78,9 +78,9 @@ The in-depth study over the course of the week has yielded the following observa
 - If a stock declines against the expectations, the sentiment declines as well.
 - The correlation seems to be the other was round: Events in financial markets are shaping the topics the users are talking about.
 
-A detailed overview over the data can be found in a Tabluea story [here](https://public.tableau.com/profile/thamo.koeper#!/vizhome/Scraping_reddit/Story1?publish=yes)
+A detailed overview over the daily data can be found in a Tableau story [here](https://public.tableau.com/profile/thamo.koeper#!/vizhome/Scraping_reddit/Story1?publish=yes)
 
-
+There was is a very 
 
 
 
