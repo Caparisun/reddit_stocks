@@ -1,12 +1,8 @@
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/reddit_price.jpg)
-
-
 # The Correlation Between Stock Prices And Reddit Users Sentiment
 
 ### Does the sentiment of investors active on reddit influence stock market prices?
 A Data Science Case Study
-
-
 
 # Contents:
 - [Introduction](#Introduction)
@@ -16,7 +12,6 @@ A Data Science Case Study
    - [Yearly analysis](#yearly-study)
 - [Trading strategy](#Model-application)
 - [Last Words](#Last-words)
-***
 
 
 ## Introduction
@@ -86,9 +81,17 @@ A detailed overview over the daily data can be found in a Tableau story [here](h
 
 ### Yearly Study
 
-There are some seasonal patterns appearing in the sentiment, for example can the highest sentiment scores be observed towards the end of the year, and a regular drop in sentiment happens over the months of summer.
+The sentiment score calculated was initally very noise and did not lead to any meaningful insights. I used fourier transform to smoothen the score a lot, which allowed to spot trends in the data.
+Below you can see the initial score.
+![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/spy_vs_sent.png)
+After transformation:
+![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/spy_vs_sent_smooth.png)
+
+There are some seasonal patterns appearing in the sentiment, for example can the highest sentiment scores be observed towards the end of the year, and a regular drop in sentiment appears over the late summer months.
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/sentiment_per_month.png)
 
+The returns of the markets and the sentiment appear to be only correlated when the returns are close to extreme levels, but besides that, there appears no correlation to returns:
+![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/return_setiment.png)
 
 
 
