@@ -7,8 +7,8 @@ A Data Science Case Study
 
 # Contents:
 - [Introduction](#Introduction)
-- [Goals, Method and Approach](#Goals-Method-and-Approach)
-- [Insights](#Insights-into-the-data)
+- [Method and Approach](#Goals-Method-and-Approach)
+- [Insights](#Insights)
    - [Yearly analysis](#Insights-into-the-data)
    - [In-depth analysis of one week](#Insights-into-the-data)
 - [Trading strategy](#Model-application)
@@ -48,9 +48,11 @@ Can you actually build a winning trading strategy around the sentiment of Reddit
 In this casestudy, I am going to try to answer these question to the best of my abilities.
 I used the following process to get and process the necessary data:
 
-## Goals, Method and Approach
+## Method and Approach
 
-### Weekly in-depth analysis
+### Week-long in-depth analysis
+This part focuses more on indivdual stocks rather than the overall market sentiment.
+
 I scraped 2.000 comments and posts on each trading day of calendar week 19 2021.
 Using natural language processing, I then searched for stock tickers in each post or comment, and if a ticker was mentioned, I calculated the sentiment of the comment. This gives me a number that I can use to score the mood of the users.
 I then created a table that shows the frequency of a tickers mentions and the average mood for that ticker.
@@ -58,6 +60,14 @@ Using Tableau, i tried to spot patterns in the sum of mentions, mood and price m
 
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/_Flussdiagramm.jpeg)
 
+
+### Three year overall analysis
+This part focuses on the overall market sentiment.
+I scraped three years of comment history from the most engaged with, daily appearing post on 'Wallstreetbets', called the daily discussion thread.
+Using this data I was able to create a daily overall market sentiment score.
+This score was then plotted against an indexprice and I investigated if there is a relationship that can be used for trading profitably and generate more returns than just investing in a passive indexfond.
+
+## Insights
 
 
 
