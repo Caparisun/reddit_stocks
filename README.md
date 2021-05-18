@@ -1,3 +1,6 @@
+![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/reddit_price.jpg)
+
+
 # The Correlation Between Stock Market Prices And Reddit Investors Sentiment
 
 ### Does the sentiment of investors active on reddit influence stock market prices?
@@ -83,7 +86,10 @@ A detailed overview over the daily data can be found in a Tableau story [here](h
 
 ### Yearly Study
 
-There was is a very 
+There are some seasonal patterns appearing in the sentiment, for example can the highest sentiment scores be observed towards the end of the year, and a regular drop in sentiment happens over the months of summer.
+![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/sentiment_per_month.png)
+
+
 
 
 
