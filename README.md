@@ -8,8 +8,8 @@
 - [Introduction](#Introduction)
 - [Goals, method and approach](#Method-and-approach)
 - [Insights](#Insights-into-the-data)
-   - 1.[Yearly analysis](#Insights-into-the-data)
-   - 2.[In-depth analysis of one week](#Insights-into-the-data)
+   - [Yearly analysis](#Insights-into-the-data)
+   - [In-depth analysis of one week](#Insights-into-the-data)
 - [Trading strategy](#Model-application)
 - [Last Words](#Last-words)
 ***
