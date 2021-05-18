@@ -10,7 +10,7 @@ A Data Science Case Study
 - [Method and Approach](#Goals-Method-and-Approach)
 - [Insights](#Insights)
    - [In-depth analysis of one week](#week-data)
-   - [Yearly analysis](#yearly_study)
+   - [Yearly analysis](#yearly-study)
 - [Trading strategy](#Model-application)
 - [Last Words](#Last-words)
 ***
