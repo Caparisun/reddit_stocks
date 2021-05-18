@@ -9,8 +9,8 @@ A Data Science Case Study
 - [Introduction](#Introduction)
 - [Method and Approach](#Goals-Method-and-Approach)
 - [Insights](#Insights)
-   - [Yearly analysis](#Insights-into-the-data)
-   - [In-depth analysis of one week](#Insights-into-the-data)
+   - [In-depth analysis of one week](#week-data)
+   - [Yearly analysis](#yearly_study)
 - [Trading strategy](#Model-application)
 - [Last Words](#Last-words)
 ***
@@ -69,6 +69,7 @@ This score was then plotted against an indexprice and I investigated if there is
 
 ## Insights
 
+### Week Data
 The in-depth study over the course of the week has yielded the following observations:
 
 - Stocks, that have a high expected volatility get talked more often about. 
@@ -79,6 +80,8 @@ The in-depth study over the course of the week has yielded the following observa
 - The correlation seems to be the other was round: Events in financial markets are shaping the topics the users are talking about.
 
 A detailed overview over the daily data can be found in a Tableau story [here](https://public.tableau.com/profile/thamo.koeper#!/vizhome/Scraping_reddit/Story1?publish=yes)
+
+### Yearly Study
 
 There was is a very 
 
