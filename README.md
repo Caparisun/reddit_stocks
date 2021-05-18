@@ -50,7 +50,7 @@ I used the following process to get and process the necessary data:
 
 ## Method and Approach
 
-### Week-long in-depth analysis
+#### Week-long in-depth analysis
 This part focuses more on indivdual stocks rather than the overall market sentiment.
 
 I scraped 2.000 comments and posts on each trading day of calendar week 19 2021.
@@ -61,13 +61,25 @@ Using Tableau, i tried to spot patterns in the sum of mentions, mood and price m
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/_Flussdiagramm.jpeg)
 
 
-### Three year overall analysis
+#### Three year overall analysis
 This part focuses on the overall market sentiment.
 I scraped three years of comment history from the most engaged with, daily appearing post on 'Wallstreetbets', called the daily discussion thread.
 Using this data I was able to create a daily overall market sentiment score.
 This score was then plotted against an indexprice and I investigated if there is a relationship that can be used for trading profitably and generate more returns than just investing in a passive indexfond.
 
 ## Insights
+
+The in-depth study over the course of the week has yielded the following observations:
+
+- Stocks, that have a high expected volatility get talked more often about. 
+- An often appearing example of this is a companies earnings call, where quarterly revenue and profit numbers are publicly communicated.
+- Stocks often surge or decline rapidly after such an earning release.
+- In anticipation of these events, Reddit users talk more often about it.
+- If a stock declines against the expectations, the sentiment declines as well.
+- The correlation seems to be the other was round: Events in financial markets are shaping the topics the users are talking about.
+
+A detailed overview over the data can be found in a Tabluea story [here](https://public.tableau.com/profile/thamo.koeper#!/vizhome/Scraping_reddit/Story1?publish=yes)
+
 
 
 
