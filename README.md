@@ -6,7 +6,7 @@
 
 # Contents:
 - [Introduction](#Introduction)
-- [Goals, method and approach](#Goals, Method and Approach)
+- [Goals, method and approach](#Goals,-Method-and-Approach)
 - [Insights](#Insights-into-the-data)
    - [Yearly analysis](#Insights-into-the-data)
    - [In-depth analysis of one week](#Insights-into-the-data)
