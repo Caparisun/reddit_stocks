@@ -6,7 +6,7 @@ A Data Science Case Study
 
 # Contents:
 - [Introduction](#Introduction)
-- [Method and Approach](#Goals-Method-and-Approach)
+- [Method and Approach](#Method-and-Approach)
 - [Insights](#Insights)
    - [In-depth analysis of one week](#week-data)
    - [Yearly analysis](#yearly-study)
