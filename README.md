@@ -115,7 +115,10 @@ The position is being closed when the long-term sentiment average catches up to 
 This strategy is *not* using short selling to leverage a negative change in sentiment.
 
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/sentiment_averages.png)
-when the blue line crosses the orange line, the algorithm buys. The algorithm sells again as soon as the blue average touches the orange one.
+
+The algorithm works as followed: 
+When the blue line crosses the orange line, the algorithm buys. 
+The algorithm sells the position as soon as the blue average touches the orange one.
 
 I tested this strategy backward for the last three years and compared it to just putting money into an index fund.
 The algorithm returned fascinating results:
