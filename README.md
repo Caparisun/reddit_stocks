@@ -81,12 +81,10 @@ A detailed overview of the daily data can be found in a Tableau story [here](htt
 ### Yearly Study
 
 The sentiment score calculated was initially very noisy and did not lead to any meaningful insights. I used a Fourier transform to smoothen the score a lot, which allowed me to spot trends in the data.
-Below you can see the initial score.
-![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/spy_vs_sent.png)
+Below you can see the score before and after transformation.
 
-After transformation:
+![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/smoothing.gif)
 
-![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/spy_vs_sent_smooth.png)
 
 There are some seasonal patterns appearing in the sentiment, for example, can the highest sentiment scores be observed towards the end of the year, and a regular drop in sentiment appears over the late summer months.
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/sentiment_per_month.png)
