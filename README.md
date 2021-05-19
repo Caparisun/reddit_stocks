@@ -16,9 +16,7 @@ A Data Science Case Study
 
 ## Introduction
 This case study was inspired by an event happening in the financial markets in January 2021. The long story can be read here: [click](https://theprint.in/theprint-essential/the-gamestop-story-how-a-group-of-investors-on-reddit-gave-wall-street-a-wild-week/595181/)
-
 In short: A investor called Keith Gill had an interesting observation regarding the shares of the company GameStop Inc. 
-
 He was under the impression, that the stock was more often sold than shares exist in the free market. 
 ##### You probably wonder how something can be sold more often than it exists? Allow me to explain:
 This is possible through a mechanism called short-selling.
