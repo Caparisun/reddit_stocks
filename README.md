@@ -34,7 +34,7 @@ Within a timeframe of only 4 weeks, the price for GameStop shares increased twen
 Many people lost a lot of money.
 And then there is another third category of people, who believe they missed a once-in-a-lifetime opportunity to get rich quickly.
 
-All these dynamics lead to a tenfold increase of active users on Reddit's most active community for investors and traders - the community has the suiting name 'Wallstreetbets'.
+All these dynamics lead to a tenfold increase of active users on Reddit's most active community for investors and traders - the community has the suitable name 'Wallstreetbets'.
 #### These users are, to this day, hunting for the next GameStop and exchanging loads of trading ideas.
 
 But none of these users have asked themselves important questions:
@@ -60,9 +60,9 @@ Using Tableau, I tried to spot patterns in the sum of mentions, mood, and price 
 
 #### Three-year overall analysis
 This part focuses on the overall market sentiment.
-I scraped three years of comment history from the most engaged with, daily appearing post on 'Wallstreetbets', called the daily discussion thread.
+I scraped three years of comment history from the most engaged-with, daily post on 'Wallstreetbets' (called the 'daily discussion thread').
 Using this data I was able to create a daily overall market sentiment score.
-This score was then plotted against an index price and I investigated if there is a relationship that can be used for trading profitably and generate more returns than just investing in a passive index fund.
+This score was then plotted against an index price and I investigated if there is a relationship that can be used for trading profitably and generate higher returns than just investing in a passive index fund.
 
 ## Insights
 
