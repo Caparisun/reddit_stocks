@@ -43,25 +43,16 @@ I used the following process to get and process the necessary data:
 
 ## Method and Approach
 
-#### Week-long in-depth analysis
-For a detailed analysis of individual stocks, I followed this approach
-I scraped 2.000 comments and posts on each trading day of calendar week 19, 2021.
-Using natural language processing, I then searched for stock tickers in each post or comment, and if a ticker was mentioned, I calculated the sentiment of the comment. This gives me a number that I can use to score the mood of the users.
-I then created a table that shows the frequency of ticker mentions and the average mood for that ticker.
-Using Tableau, I tried to spot patterns in the sum of mentions, mood, and price movements.
-
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/_Flussdiagramm%20.jpeg)
 
 
-#### Three-year overall analysis
-This part focuses on the overall market sentiment.
-I scraped three years of comment history from the most engaged-with, daily post on 'Wallstreetbets' (called the 'daily discussion thread').
 Using this data I was able to create a daily overall market sentiment score.
 This score was then plotted against an index price and I investigated if there is a relationship that can be used for trading profitably and generate higher returns than just investing in a passive index fund.
 
 ## Insights
 
 ### Week Data
+This part of the case study focuses on patterns between individual stocks and their sentiment on Reddit. 
 The in-depth study over the course of the week has yielded the following observations:
 
 - Stocks, that have high expected volatility get talked more often about. 
@@ -74,6 +65,7 @@ The in-depth study over the course of the week has yielded the following observa
 A detailed overview of the daily data can be found in a Tableau story [here](https://public.tableau.com/profile/thamo.koeper#!/vizhome/Scraping_reddit/Story1?publish=yes)
 
 ### Yearly study
+This part focuses on the overall market sentiment. I scraped three years of comment history from the most engaged-with, daily post on 'Wallstreetbets' (called the 'daily discussion thread').
 The sentiment score calculated was initially very noisy and did not lead to any meaningful insights. I used a Fourier transform to smoothen the score a lot, which allowed me to spot trends in the data.
 Below you can see the score before and after transformation.
 
@@ -100,7 +92,7 @@ I tried to exploit this with a trading strategy, that I will explain below.
 The trading strategy tries to foresee changes in sentiment and enters a buy position if the algorithm notices this.
 I achieved this by calculating two rolling averages of the sentiment, one of them is using the mean of the last 5 days, the other one the mean of the last 10 days.
 A buying position is entered whenever the faster-moving average crosses the slower-moving average.
-The position is being closed when the long-term sentiment average catches up to the fast average. 
+The position is being closed when the slower-moving average catches up to the fast-moving average. 
 100% of the capital is used for every trade, to compound wins quicker.
 
 This strategy is *not* using short selling to leverage a negative change in sentiment.
