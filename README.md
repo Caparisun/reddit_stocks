@@ -1,7 +1,6 @@
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/title.jpg)
-# The Correlation of Stock Prices And Reddit Users Sentiment
-
-### Does the sentiment of investors active on Reddit influence stock market prices?
+# The Correlation of Reddit Users Sentiment and Stock Prices
+### Does the sentiment of investorstht are active on Reddit influence stock market prices?
 A Data Science Case Study
 
 # Contents:
