@@ -1,6 +1,6 @@
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/title.jpg)
 # The Correlation of Reddit Users Sentiment and Stock Prices
-### Does the sentiment of investors that are active on Reddit influence stock market prices?
+### Does the sentiment of Reddit users influence stock market prices?
 A Data Science Case Study
 
 # Contents:
@@ -10,13 +10,14 @@ A Data Science Case Study
    - [In-depth analysis of one week](#week-data)
    - [Yearly analysis](#yearly-study)
 - [Trading strategy](#Trading-Strategy)
+- [Next Stepts](#Next-Steps)
 - [Last Words](#Last-words)
 
 
 ## Introduction
 This case study was inspired by an event happening in the financial markets in January 2021. The long story can be read here: [click](https://theprint.in/theprint-essential/the-gamestop-story-how-a-group-of-investors-on-reddit-gave-wall-street-a-wild-week/595181/)
 
-In short: A investor called Keith Gill had an interesting observation regarding the shares of the company GameStop Inc. 
+In short: A investor had an interesting observation regarding the shares of the company GameStop Inc. 
 He was under the impression, that the stock was more often sold than shares exist in the free market. 
 #### You probably wonder how something can be sold more often than it exists? Allow me to explain:
 This is possible through a mechanism called short-selling.
@@ -24,11 +25,6 @@ Short-selling a stock means, that the selling entity is borrowing the stock and 
 The entity hopes for lower prices so that the shares can be bought back for a discount. The difference between the borrowed price and the price where the shares were bought back, is the return or loss of the short seller.
 
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/short_selling.png)
-
-Keith argued, that if lots of people would start buying up the available shares, the short sellers would be forced to buy shares as well to cut their losses. 
-He did this mostly via Reddit, a social media platform where people engage with communities via topics rather than their personal network. You can imagine it as a large forum that collects multiple forums in it, and therefore people interested in numerous things are actively exchanging ideas and memes there.
-On Reddit, he was posting long articles about the mechanics of how this so-called "Short Squeeze" would be working, and screenshots of his trading positions.
-It took over a year, but towards the end of December 2020, people started acting on his advice and bought GameStop share.
 
 Within a timeframe of only 4 weeks, the price for GameStop shares increased twenty-fold. Many people made a life-changing amount of money, but there is also another side to this trade: 
 Many people lost a lot of money.
@@ -38,9 +34,9 @@ All these dynamics lead to a tenfold increase of active users on Reddit's most a
 #### These users are, to this day, hunting for the next GameStop and exchanging loads of trading ideas.
 
 But none of these users have asked themselves important questions:
-Is there a chance of this happening again, or was this a one-time phenomenon?
-Is there actually a correlation between what users talk about and price movements?
-Can you actually build a winning trading strategy around the sentiment of Reddit users?
+#### Is there a chance of this happening again, or was this a one-time phenomenon?
+#### Is there actually a correlation between what users talk about and price movements?
+#### Can you actually build a winning trading strategy around the sentiment of Reddit users?
 
 In this case study, I am going to try to answer these questions to the best of my abilities.
 I used the following process to get and process the necessary data:
@@ -48,9 +44,8 @@ I used the following process to get and process the necessary data:
 ## Method and Approach
 
 #### Week-long in-depth analysis
-This part focuses more on individual stocks rather than the overall market sentiment.
-
-I scraped 2.000 comments and posts on each trading day of calendar week 19 2021.
+For a detailed analsis of individual stocks, i followed this approach
+I scraped 2.000 comments and posts on each trading day of calendar week 19, 2021.
 Using natural language processing, I then searched for stock tickers in each post or comment, and if a ticker was mentioned, I calculated the sentiment of the comment. This gives me a number that I can use to score the mood of the users.
 I then created a table that shows the frequency of ticker mentions and the average mood for that ticker.
 Using Tableau, I tried to spot patterns in the sum of mentions, mood, and price movements.
@@ -71,7 +66,7 @@ The in-depth study over the course of the week has yielded the following observa
 
 - Stocks, that have high expected volatility get talked more often about. 
 - An often appearing example of this is a companies earnings call, where quarterly revenue and profit numbers are publicly communicated.
-- Stocks often surge or decline rapidly after such an earning release.
+- Stocks often surge or decline rapidly after such an earnings report.
 - In anticipation of these events, Reddit users talk more often about it.
 - If a stock declines against the expectations, the sentiment declines as well.
 - The correlation seems to be the other way round: Events in financial markets are shaping the topics the users are talking about.
@@ -125,10 +120,18 @@ The algorithm returned fascinating results:
 Over the course of the last three years, 14 trades were made with the algorithm.
 14/14 trades were profitable, and over three years the algorithm returned ~80%. A lot more than the index, and also a lot more than the average hedge fund.
 
+## Next Steps
+* Get data for individual stockfs from reddit
+* Create sentiment scores for individual stocks
+* Test if the strategy can be applied to indivdiual stops
+* Further analysis of the timeseries
+* Automate the scraping and get even more data
+* Create a webapp that aggregates the results and publishes them ith live updates
+
 ## Last words
 
 Short summary:
-Reddit does not move the market, it appears that events in the markets are moving reddits emotions.
+Reddit does not move the market, it appears that events in the markets are moving Reddit users emotions.
 *But* there seems to be some hidden advantage in the emotions that Reddit users transport via the social media platform.
 This advantage can be used to increase one's understanding of current market sentiment and help in anticipating future price movements.
 However, the data does not indicate that accurately predicting movements based on the sentiment and frequency of mentions is possible.
