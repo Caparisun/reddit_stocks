@@ -1,7 +1,6 @@
-![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/reddit_price.png)
-# The Correlation Between Stock Prices And Reddit Users Sentiment
-
-### Does the sentiment of investors active on Reddit influence stock market prices?
+![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/title.jpg)
+# The Correlation of Reddit Users Sentiment and Stock Prices
+### Does the sentiment of investors that are active on Reddit influence stock market prices?
 A Data Science Case Study
 
 # Contents:
@@ -16,9 +15,10 @@ A Data Science Case Study
 
 ## Introduction
 This case study was inspired by an event happening in the financial markets in January 2021. The long story can be read here: [click](https://theprint.in/theprint-essential/the-gamestop-story-how-a-group-of-investors-on-reddit-gave-wall-street-a-wild-week/595181/)
+
 In short: A investor called Keith Gill had an interesting observation regarding the shares of the company GameStop Inc. 
 He was under the impression, that the stock was more often sold than shares exist in the free market. 
-##### You probably wonder how something can be sold more often than it exists? Allow me to explain:
+#### You probably wonder how something can be sold more often than it exists? Allow me to explain:
 This is possible through a mechanism called short-selling.
 Short-selling a stock means, that the selling entity is borrowing the stock and selling it.
 The entity hopes for lower prices so that the shares can be bought back for a discount. The difference between the borrowed price and the price where the shares were bought back, is the return or loss of the short seller.
@@ -34,7 +34,7 @@ Within a timeframe of only 4 weeks, the price for GameStop shares increased twen
 Many people lost a lot of money.
 And then there is another third category of people, who believe they missed a once-in-a-lifetime opportunity to get rich quickly.
 
-All these dynamics lead to a tenfold increase of active users on Reddit's most active community for investors and traders - the community has the suiting name 'Wallstreetbets'.
+All these dynamics lead to a tenfold increase of active users on Reddit's most active community for investors and traders - the community has the suitable name 'Wallstreetbets'.
 #### These users are, to this day, hunting for the next GameStop and exchanging loads of trading ideas.
 
 But none of these users have asked themselves important questions:
@@ -60,9 +60,9 @@ Using Tableau, I tried to spot patterns in the sum of mentions, mood, and price 
 
 #### Three-year overall analysis
 This part focuses on the overall market sentiment.
-I scraped three years of comment history from the most engaged with, daily appearing post on 'Wallstreetbets', called the daily discussion thread.
+I scraped three years of comment history from the most engaged-with, daily post on 'Wallstreetbets' (called the 'daily discussion thread').
 Using this data I was able to create a daily overall market sentiment score.
-This score was then plotted against an index price and I investigated if there is a relationship that can be used for trading profitably and generate more returns than just investing in a passive index fund.
+This score was then plotted against an index price and I investigated if there is a relationship that can be used for trading profitably and generate higher returns than just investing in a passive index fund.
 
 ## Insights
 
