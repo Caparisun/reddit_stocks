@@ -43,7 +43,7 @@ I used the following process to get and process the necessary data:
 
 ## Method and Approach
 
-![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/_Flussdiagramm%20.jpeg)
+![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/_Flussdiagramm.jpeg)
 
 
 Using this data I was able to create a daily overall market sentiment score.
