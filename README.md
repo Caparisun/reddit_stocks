@@ -18,7 +18,7 @@ This case study was inspired by an event happening in the financial markets in J
 
 In short: A investor called Keith Gill had an interesting observation regarding the shares of the company GameStop Inc. 
 He was under the impression, that the stock was more often sold than shares exist in the free market. 
-##### You probably wonder how something can be sold more often than it exists? Allow me to explain:
+#### You probably wonder how something can be sold more often than it exists? Allow me to explain:
 This is possible through a mechanism called short-selling.
 Short-selling a stock means, that the selling entity is borrowing the stock and selling it.
 The entity hopes for lower prices so that the shares can be bought back for a discount. The difference between the borrowed price and the price where the shares were bought back, is the return or loss of the short seller.
