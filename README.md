@@ -87,7 +87,7 @@ Below you can see the score before and after transformation.
 
 
 There are some seasonal patterns appearing in the sentiment, for example, can the highest sentiment scores be observed towards the end of the year, and a regular drop in sentiment appears over the late summer months.
-![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/sentiment_per_month.png)
+![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/sentiment_month_new.png)
 
 The returns of the markets and the sentiment appear to be only correlated when the returns are close to extreme levels, but besides that, there appears no correlation to returns:
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/return_setiment.png)
