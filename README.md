@@ -73,7 +73,7 @@ The in-depth study over the course of the week has yielded the following observa
 
 A detailed overview of the daily data can be found in a Tableau story [here](https://public.tableau.com/profile/thamo.koeper#!/vizhome/Scraping_reddit/Story1?publish=yes)
 
-
+### Yearly study
 The sentiment score calculated was initially very noisy and did not lead to any meaningful insights. I used a Fourier transform to smoothen the score a lot, which allowed me to spot trends in the data.
 Below you can see the score before and after transformation.
 
