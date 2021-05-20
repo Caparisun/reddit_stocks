@@ -129,8 +129,9 @@ Over the course of the last three years, 14 trades were made with the algorithm.
 
 ## Last words
 
-Short summary:
+### Short summary:
 Reddit does not move the market, it appears that events in the markets are moving Reddit users emotions.
+***
 *But* there seems to be some hidden advantage in the emotions that Reddit users transport via the social media platform.
 This advantage can be used to increase one's understanding of current market sentiment and help in anticipating future price movements.
 However, the data does not indicate that accurately predicting movements based on the sentiment and frequency of mentions is possible.
