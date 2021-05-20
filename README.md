@@ -72,7 +72,7 @@ The in-depth study over the course of the week has yielded the following observa
 - The correlation seems to be the other way round: Events in financial markets are shaping the topics the users are talking about.
 
 A detailed overview of the daily data can be found in a Tableau story [here](https://public.tableau.com/profile/thamo.koeper#!/vizhome/Scraping_reddit/Story1?publish=yes)
-<div class='tableauPlaceholder' id='viz1621513411511' style='position: relative'><noscript><a href='#'><img alt='Reddit and it&#39;s effect on prices ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sc&#47;Scraping_reddit&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Scraping_reddit&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sc&#47;Scraping_reddit&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='de' /><param name='filter' value='publish=yes' /></object></div>             
+
 
 The sentiment score calculated was initially very noisy and did not lead to any meaningful insights. I used a Fourier transform to smoothen the score a lot, which allowed me to spot trends in the data.
 Below you can see the score before and after transformation.
