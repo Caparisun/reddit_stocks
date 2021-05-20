@@ -1,4 +1,4 @@
-![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/reddit_price.jpg)
+![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/reddit_price.png)
 # The Correlation Between Stock Prices And Reddit Users Sentiment
 
 ### Does the sentiment of investors active on Reddit influence stock market prices?
