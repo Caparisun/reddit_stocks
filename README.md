@@ -55,7 +55,7 @@ Using natural language processing, I then searched for stock tickers in each pos
 I then created a table that shows the frequency of ticker mentions and the average mood for that ticker.
 Using Tableau, I tried to spot patterns in the sum of mentions, mood, and price movements.
 
-![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/_Flussdiagramm.jpeg)
+![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/_Flussdiagramm%20.jpeg)
 
 
 #### Three-year overall analysis
