@@ -34,9 +34,9 @@ All these dynamics lead to a tenfold increase of active users on Reddit's most a
 #### These users are, to this day, hunting for the next GameStop and exchanging loads of trading ideas.
 
 But none of these users have asked themselves important questions:
-#### Is there a chance of this happening again, or was this a one-time phenomenon?
-#### Is there actually a correlation between what users talk about and price movements?
-#### Can you actually build a winning trading strategy around the sentiment of Reddit users?
+* *Is there a chance of this happening again, or was this a one-time phenomenon?*
+* *Is there actually a correlation between what users talk about and price movements?*
+* *Can you actually build a winning trading strategy around the sentiment of Reddit users?*
 
 In this case study, I am going to try to answer these questions to the best of my abilities.
 I used the following process to get and process the necessary data:
