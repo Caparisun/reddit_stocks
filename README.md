@@ -44,7 +44,7 @@ I used the following process to get and process the necessary data:
 ## Method and Approach
 
 #### Week-long in-depth analysis
-For a detailed analsis of individual stocks, i followed this approach
+For a detailed analysis of individual stocks, I followed this approach
 I scraped 2.000 comments and posts on each trading day of calendar week 19, 2021.
 Using natural language processing, I then searched for stock tickers in each post or comment, and if a ticker was mentioned, I calculated the sentiment of the comment. This gives me a number that I can use to score the mood of the users.
 I then created a table that shows the frequency of ticker mentions and the average mood for that ticker.
