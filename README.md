@@ -117,7 +117,7 @@ Over the course of the last three years, 14 trades were made with the algorithm.
 * Test if the strategy can be applied to indivdiual stops
 * Further analysis of the timeseries
 * Automate the scraping and get even more data
-* Create a webapp that aggregates the results and publishes them ith live updates
+* Create a webapp that aggregates the results and publishes them with live updates
 
 ## Last words
 
