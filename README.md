@@ -74,6 +74,7 @@ Below you can see the score before and after transformation.
 
 
 There are some seasonal patterns appearing in the sentiment, for example, can the highest sentiment scores be observed towards the end of the year, and a regular drop in sentiment appears over the late summer months.
+Please keep in mind, that values for March and April have lots of outliers to the downside beacause of the corona crash 2020 and the current state of the world (March 2021 still had lockdowns for many countries)
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/sentiment_month_new.png)
 
 The returns of the markets and the sentiment appear to be only correlated when the returns are close to extreme levels, but besides that, there appears no correlation to returns:
