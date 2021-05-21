@@ -99,10 +99,6 @@ This strategy is *not* using short selling to leverage a negative change in sent
 
 ![Picture](https://github.com/Caparisun/reddit_stocks/blob/main/pictures/sentiment_averages.png)
 
-The algorithm works as followed: 
-When the blue line crosses the orange line, the algorithm buys. 
-The algorithm sells the position as soon as the blue average touches the orange one.
-
 I tested this strategy backward for the last three years and compared it to just putting money into an index fund.
 The algorithm returned fascinating results:
 
